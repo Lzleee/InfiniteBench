@@ -17,10 +17,13 @@ from eval_utils import (
 )
 from vllm import LLM, SamplingParams
 from args import parse_args
+import os
+#os.environ["CUDA_VISIBLE_DEVICES"] = "6,7"
 
 
-MAX_POSITION_ID = 128 * 1024  # Determined by the model
-TRUNCATE_LEN = 128 * 1024
+
+MAX_POSITION_ID = 128 * 1024-8 # Determined by the model
+TRUNCATE_LEN = 128 * 1024-8 
 
 sampling_params = SamplingParams(temperature=0.8, top_p=0.95)
 def truncate_input(input: list, max_length: int, manner="middle"):
@@ -80,7 +83,7 @@ def load_model(
     # tok.pad_token = tok.eos_token
     print("Loading model")
     start_time = time.time()
-    llm = LLM(model=model_name, trust_remote_code=True)#, tensor_parallel_size=ngpu)
+    llm = LLM(model=model_name, trust_remote_code=True, tensor_parallel_size=ngpu)
     print("Time taken:", round(time.time() - start_time))
     return llm, tok  # type: ignore
 

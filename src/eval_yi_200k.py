@@ -17,10 +17,11 @@ from eval_utils import (
 )
 from vllm import LLM, SamplingParams
 from args import parse_args
+import os
 
 
-MAX_POSITION_ID = 200000  # Determined by the model
-TRUNCATE_LEN = 200000
+MAX_POSITION_ID = 200005  # Determined by the model
+TRUNCATE_LEN = 200000-2
 
 sampling_params = SamplingParams(temperature=0.8, top_p=0.95)
 def truncate_input(input: list, max_length: int, manner="middle"):
@@ -88,6 +89,7 @@ def load_model(
 if __name__ == "__main__":
     
     args = parse_args()
+    os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
     model_name = args.model_name
 
     print(json.dumps(vars(args), indent=4))
@@ -95,7 +97,7 @@ if __name__ == "__main__":
 
     # Model
     max_tokens = DATA_NAME_TO_MAX_NEW_TOKENS[data_name]
-    model, tok = load_model(args.model_path)
+    model, tok = load_model(args.model_path,args.ngpu)
     # sampling_params = SamplingParams(temperature=0.8, top_p=0.95)
     # Data
     result_dir = Path(args.output_dir, model_name)

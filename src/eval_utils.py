@@ -56,6 +56,8 @@ MODEL_TO_PROMPT_TEMPLATE = {
     "yi-6b-200k": yarn_mistral_templates,
     "yi-34b-200k": yarn_mistral_templates,
     "chatglm3": yarn_mistral_templates,
+    "longalign": yarn_mistral_templates,
+    "longalign-13b": yarn_mistral_templates,
 }
 
 

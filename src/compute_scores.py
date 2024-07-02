@@ -181,6 +181,7 @@ def get_score_one_code_debug(pred, label, model_name: str) -> bool:
     pred = pred.strip()
     label_c = label[1]
     fn_name = label[0]
+    pred = pred.strip()
     if pred[:2] in [f"{label_c}.", f"{label_c}:"]:
         return True
 
@@ -430,7 +431,7 @@ if __name__ == "__main__":
     if args.task == "all":
         tasks = ALL_TASKS
     else:
-        tasks = [args.task]
+        tasks = args.task.split(",")
     for task in tasks:
         result_dir = Path(args.output_dir, args.model_name)
         preds_path = result_dir / f"preds_{task}.jsonl"

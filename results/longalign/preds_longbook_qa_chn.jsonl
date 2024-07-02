@@ -1,0 +1,189 @@
+{"id": 0, "prediction": "\n根据文中内容，想要杀死", "ground_truth": ["田立帆, 商老太, 王剑英, 王剑杰, 福气龙, 慕容景岳, 薛鹊"]}
+{"id": 1, "prediction": "\n\n商老太和马行空都被毒死，", "ground_truth": ["胡一刀, 马行空, 商老太, 徐峥, 程紫洁"]}
+{"id": 2, "prediction": "小说中叫阿四的只有一个人，就", "ground_truth": ["2", "两个", "二"]}
+{"id": 3, "prediction": "根据文中内容，没有明确提到担", "ground_truth": ["袁雨琳, 万鹤声"]}
+{"id": 4, "prediction": "在文中并没有明确提到徐峥", "ground_truth": ["零", "徐峥没有亲生孩子", "无"]}
+{"id": 5, "prediction": "文中并没有提到袁雨琳", "ground_truth": ["邯郸府昆仑刀, 彰德府天罡剑, 保定府哪吒拳, 少林韦陀门, 八极拳, 八卦门, 鹰爪雁行门, 广西八仙剑, 湖南易家湾九龙鞭"]}
+{"id": 6, "prediction": "胡一统、程紫洁、", "ground_truth": ["凤天南, 胡一统, 袁雨琳, 程紫洁"]}
+{"id": 7, "prediction": "袁雨琳第二次救其", "ground_truth": ["湘妃神祠", "湘妃庙"]}
+{"id": 8, "prediction": "曹植大哥逼她", "ground_truth": ["姜家残疾的二少爷", "姜家二少爷"]}
+{"id": 9, "prediction": "曹植是曹家第三个", "ground_truth": ["二", "2", "第二个"]}
+{"id": 10, "prediction": "曹植的女儿名叫子", "ground_truth": ["子头"]}
+{"id": 11, "prediction": "曹植让子头裹", "ground_truth": ["裹脚"]}
+{"id": 12, "prediction": "根据文中描述，曹", "ground_truth": ["开麻油店"]}
+{"id": 13, "prediction": "子头是和童安格有了爱情的", "ground_truth": ["安格", "童安格"]}
+{"id": 14, "prediction": "文章中并未明确提到子牙最后有", "ground_truth": ["是", "有"]}
+{"id": 15, "prediction": "第十章 蓝眼", "ground_truth": ["绝盗"]}
+{"id": 16, "prediction": "根据文中内容，以下几个主要角", "ground_truth": ["青云楼主"]}
+{"id": 17, "prediction": "以下几个章节的标题包含了", "ground_truth": ["刷子李, 背头杨, 蔡二少爷, 粘土张, 大回, 杨巴, 冯五爷, 张立凯, 苏七块"]}
+{"id": 18, "prediction": "没有明确出国的主角。文中只提到有", "ground_truth": ["青云楼主"]}
+{"id": 19, "prediction": "第十六章的主角小达子最后死了。文", "ground_truth": ["大回"]}
+{"id": 20, "prediction": "这个文章包含了10个小说，每", "ground_truth": ["18", "十八"]}
+{"id": 21, "prediction": "刘英道装死后, 第二次生", "ground_truth": ["邻居", "乔二龙", "狗子", "卖开水的乔二龙", "卖开水的"]}
+{"id": 22, "prediction": "孙少平有两个哥哥和一", "ground_truth": ["孙江涛", "孙兰香", "孙兰花"]}
+{"id": 23, "prediction": "没有明确提到孙少平曾从事", "ground_truth": ["售货员, 烧窑工人"]}
+{"id": 24, "prediction": "根据文中内容，孙少平的户口", "ground_truth": ["双水村, 阳沟村"]}
+{"id": 25, "prediction": "苦根是最后一个死亡的。\n", "ground_truth": ["苦根"]}
+{"id": 26, "prediction": "根据文中内容，昱洁比", "ground_truth": ["四岁", "4岁", "4-5岁", "四、五岁"]}
+{"id": 27, "prediction": "贫困的母亲, 昱", "ground_truth": ["贫困的母亲和田垄"]}
+{"id": 28, "prediction": "昱洁是在十三岁那年被", "ground_truth": ["六、七岁", "6-7岁"]}
+{"id": 29, "prediction": "这篇小说没有明确描写", "ground_truth": ["忠武和华东"]}
+{"id": 30, "prediction": "根据文中内容，伟娜和", "ground_truth": ["妓女"]}
+{"id": 31, "prediction": "没有明确的说明，看不出是谁看", "ground_truth": ["金宜斌的三嫂玉芬", "玉芬"]}
+{"id": 32, "prediction": "金宜斌的父亲", "ground_truth": ["国务总理", "金龙翔", "国务总理金龙翔"]}
+{"id": 33, "prediction": "小栗艾是金家少爷，他", "ground_truth": ["佣人", "丫环"]}
+{"id": 34, "prediction": "根据文中内容，金宜斌有以", "ground_truth": ["大哥金凤举, 二哥金鹤荪, 三哥金鹏振, 四姐金道之, 五姐金敏之, 六姐金润之", "金凤举, 金鹤荪, 金鹏振, 金道之, 金敏之, 金润之", "凤举, 鹤荪, 鹏振, 道之, 敏之, 润之"]}
+{"id": 35, "prediction": "戚薇出生于豪门。\n\n", "ground_truth": ["豪门"]}
+{"id": 36, "prediction": "根据文中内容，狄仁杰是被", "ground_truth": ["万龙飞和万重山"]}
+{"id": 37, "prediction": "狄仁杰入狱三年后", "ground_truth": ["万重山"]}
+{"id": 38, "prediction": "狄仁杰自杀未成是被", "ground_truth": ["丁丹峰"]}
+{"id": 39, "prediction": "根据文中描述，万飞龙", "ground_truth": ["万飞龙"]}
+{"id": 40, "prediction": "是的，根据文中内容，狄仁", "ground_truth": ["否", "不是"]}
+{"id": 41, "prediction": "萧峰有三个孩子，分", "ground_truth": ["2", "两个", "俩"]}
+{"id": 42, "prediction": "萧峰在小说中有两个妻", "ground_truth": ["倩蓉, 彤馨"]}
+{"id": 43, "prediction": "在第六次与萧峰交手的时候", "ground_truth": ["2", "第二次", "第2次"]}
+{"id": 44, "prediction": "慕兰三老分别是：", "ground_truth": ["虎头人长老, 狮头人长老, 熊头人长老"]}
+{"id": 45, "prediction": "胡一统和苗欣欣在", "ground_truth": ["胡一统"]}
+{"id": 46, "prediction": "胡一统江湖人称为“镇国大将军", "ground_truth": ["镇国大将军"]}
+{"id": 47, "prediction": "胡一统是胡翠山的", "ground_truth": ["父子", "胡翠山是胡一统的父亲", "胡一统是胡翠山的儿子"]}
+{"id": 48, "prediction": "根据文中内容，田安豹去世的时", "ground_truth": ["胡翠山"]}
+{"id": 49, "prediction": "关于李自成假死的地点，文中并", "ground_truth": ["九宫山"]}
+{"id": 50, "prediction": "\n\n胡夫人 - 被田立帆所", "ground_truth": ["李自成, 胡翠山, 胡夫人, 苗侨伟"]}
+{"id": 51, "prediction": "苗欣欣是胡一统的", "ground_truth": ["苗侨伟和南兰"]}
+{"id": 52, "prediction": "在第27回里，侠客岛的", "ground_truth": ["第十一回", "十一", "11"]}
+{"id": 53, "prediction": "在文中提到的几个组织中，", "ground_truth": ["飞鱼帮和铁叉会"]}
+{"id": 54, "prediction": "文中提到的人物有：\n1. 张", "ground_truth": ["一个", "一", "1"]}
+{"id": 55, "prediction": "书中提到的轻身飞行之", "ground_truth": ["龙跷, 虎跷, 鹿卢跷"]}
+{"id": 56, "prediction": "丁秀才最后一次出现是在第二十九回", "ground_truth": ["十五", "第十五回", "15"]}
+{"id": 57, "prediction": "书中共出现了34篇不同的文学", "ground_truth": ["一百四十一", "一百四十一种", "141"]}
+{"id": 58, "prediction": "在所有人物中, 有多少人自称", "ground_truth": ["两个", "二", "两", "2"]}
+{"id": 59, "prediction": "抱歉，文中没有明确提到石", "ground_truth": ["一百一十五日", "一百一十五", "115"]}
+{"id": 60, "prediction": "陈晋毅是陈世倌第三个", "ground_truth": ["三", "第三子", "3"]}
+{"id": 61, "prediction": "根据文中内容，担任过红花会", "ground_truth": ["于新颖", "陈晋毅"]}
+{"id": 62, "prediction": "文中并未明确提到陈晋毅", "ground_truth": ["25", "二十五"]}
+{"id": 63, "prediction": "文中没有明确提到陈晋毅", "ground_truth": ["15", "十五"]}
+{"id": 64, "prediction": "文中并没有明确提到陈晋毅", "ground_truth": ["1", "一"]}
+{"id": 65, "prediction": "根据文中描述，雯", "ground_truth": ["18", "十八"]}
+{"id": 66, "prediction": "根据文中内容，袁国洋没有", "ground_truth": ["李自成"]}
+{"id": 67, "prediction": "夏超涛的女儿叫夏", "ground_truth": ["夏冯聪"]}
+{"id": 68, "prediction": "袁国洋向金蛇郎君学习", "ground_truth": ["金蛇郎君夏超涛", "夏超涛", "金蛇郎君"]}
+{"id": 69, "prediction": "小金蛇咬伤过以下人：", "ground_truth": ["何新蕾", "齐云璈"]}
+{"id": 70, "prediction": "根据文章内容, 冯聪是", "ground_truth": ["夫妻", "情侣", "冯聪是袁国洋的妻子", "袁国洋是冯聪的老公"]}
+{"id": 71, "prediction": "根据文中描述，袁国洋", "ground_truth": ["梅英道人 "]}
+{"id": 72, "prediction": "根据文中内容，温家五老中", "ground_truth": ["温方山"]}
+{"id": 73, "prediction": "沐晴, 小幽, 张道", "ground_truth": ["封棋, 林染, 沐晴, 张道文, 小幽"]}
+{"id": 74, "prediction": "\n\n1. 破晓城\n2. ", "ground_truth": ["星城, 未来城, 凛冬城, 胜利城, 旧日城"]}
+{"id": 75, "prediction": "封棋。封棋作为主", "ground_truth": ["封棋"]}
+{"id": 76, "prediction": "文中姓夏的角色一共有4个。\n", "ground_truth": ["五", "5"]}
+{"id": 77, "prediction": "封棋", "ground_truth": ["贾易"]}
+{"id": 78, "prediction": "小黑。\n在书中提到过小黑", "ground_truth": ["沐晴"]}
+{"id": 79, "prediction": "文中主角封棋可以任意改变", "ground_truth": ["否"]}
+{"id": 80, "prediction": "苏晓樯。\n\n苏", "ground_truth": ["路明非", "明非"]}
+{"id": 81, "prediction": "书中并没有明确提到人物点头的次数", "ground_truth": ["18", "十八"]}
+{"id": 82, "prediction": "路明非、路鸣泽、路鸣", "ground_truth": ["2", "两", "二"]}
+{"id": 83, "prediction": "《静夜思》", "ground_truth": ["《山海经》"]}
+{"id": 84, "prediction": "陈南。", "ground_truth": ["陈南"]}
+{"id": 85, "prediction": "陈南是陈金河的儿子。", "ground_truth": ["父子", "陈金河是陈南的父亲", "陈南是陈金河的儿子"]}
+{"id": 86, "prediction": "根据原文内容，并没有明确提到六十", "ground_truth": ["4", "四", "四个", "4个"]}
+{"id": 87, "prediction": "曹美娟不是护士，", "ground_truth": ["江琴"]}
+{"id": 88, "prediction": "没有明确提到哪一部作品没有出", "ground_truth": ["《新年回家》"]}
+{"id": 89, "prediction": "C. 导演与演员", "ground_truth": ["C. 导演与演员"]}
+{"id": 90, "prediction": "没有明确提到。文中没有描", "ground_truth": ["郑小婉, 钱宸, 田景昊"]}
+{"id": 91, "prediction": "秉文有两个二爷。\n文中提", "ground_truth": ["2", "两", "二"]}
+{"id": 92, "prediction": "风秉文最初收下的两位", "ground_truth": ["1", "一"]}
+{"id": 93, "prediction": "玄武，因为玄武没有真实出", "ground_truth": ["青龙"]}
+{"id": 94, "prediction": "原文中并没有明确提到姓风", "ground_truth": ["4", "四", "四个", "4个"]}
+{"id": 95, "prediction": "《青帝长生诀》", "ground_truth": ["《青帝长生诀》"]}
+{"id": 96, "prediction": "根据文中内容，云景是第二个登场的", "ground_truth": ["素素"]}
+{"id": 97, "prediction": "不知道，文中并没有明确提到云景有", "ground_truth": ["没有"]}
+{"id": 98, "prediction": "没有明确提到王伯林和云林是", "ground_truth": ["林星语, 林夜星"]}
+{"id": 99, "prediction": "《易筋经》不是武功秘", "ground_truth": ["《无限》"]}
+{"id": 100, "prediction": "根据原文，我数了共有9个掌门", "ground_truth": ["3", "三"]}
+{"id": 101, "prediction": "根据文中内容，出现了三个门派", "ground_truth": ["5", "五"]}
+{"id": 102, "prediction": "不是同一个人。\n李元是刘", "ground_truth": ["不是"]}
+{"id": 103, "prediction": "55级、62级、70", "ground_truth": ["70等级"]}
+{"id": 104, "prediction": "在历史上，有过5位皇帝当过皇", "ground_truth": ["4", "四", "四个", "4个"]}
+{"id": 105, "prediction": "在原文中，第二个出现的天尊是", "ground_truth": ["灵宝天尊"]}
+{"id": 106, "prediction": "姬象穿越过三次。\n\n在文", "ground_truth": ["一", "1"]}
+{"id": 107, "prediction": "根据原文内容，三山分别是：武", "ground_truth": ["太山"]}
+{"id": 108, "prediction": "圣经有66卷。\n根据文中", "ground_truth": ["9", "九"]}
+{"id": 109, "prediction": "《东游记》, 《南游记》", "ground_truth": ["《北游记》"]}
+{"id": 110, "prediction": "米纳最早登场。", "ground_truth": ["卡希尔"]}
+{"id": 111, "prediction": "德赫亚。", "ground_truth": ["米尔顿"]}
+{"id": 112, "prediction": "李波罗有两个女儿，一个是", "ground_truth": ["0", "零", "无", "没有"]}
+{"id": 113, "prediction": "门将\n根据文中内容, 可以看出李", "ground_truth": ["门将"]}
+{"id": 114, "prediction": "《踢球者》没在文中出现过。", "ground_truth": ["《经济通论》"]}
+{"id": 115, "prediction": "李波罗。这小说的标题即是", "ground_truth": ["李波罗", "波罗"]}
+{"id": 116, "prediction": "黄灵。\n在第414章中，", "ground_truth": ["李芷莹"]}
+{"id": 117, "prediction": "最早出场的角色是李董。", "ground_truth": ["黄灵"]}
+{"id": 118, "prediction": "黄灵的成绩超越楚阳。", "ground_truth": ["刘佳艳"]}
+{"id": 119, "prediction": "陈雅丽, 刘佳艳", "ground_truth": ["刘佳艳"]}
+{"id": 120, "prediction": "《电力设备》, 《关于窑", "ground_truth": ["《人民法律制度》"]}
+{"id": 121, "prediction": "楚阳没坐过奥迪。", "ground_truth": ["秦海陆"]}
+{"id": 122, "prediction": "不知道", "ground_truth": ["十万"]}
+{"id": 123, "prediction": "王豆香是第二个出场的。\n", "ground_truth": ["花红"]}
+{"id": 124, "prediction": "王守、长陵、毛南生都没", "ground_truth": ["毛南生"]}
+{"id": 125, "prediction": "淑妃和她的孙女最", "ground_truth": ["木屋", "临时驻地", "临时驻地的木屋"]}
+{"id": 126, "prediction": "在文中，“李晗”这个名字只出", "ground_truth": ["992", "九百九十二", "992次", "九百九十二次"]}
+{"id": 127, "prediction": "寂静。", "ground_truth": ["陆绊"]}
+{"id": 128, "prediction": "支持陆绊的寻求外神", "ground_truth": ["希雅和老宋"]}
+{"id": 129, "prediction": "陆绊一共购买过三", "ground_truth": ["4", "4次", "四", "四次"]}
+{"id": 130, "prediction": "使用圣杯喝圣水的", "ground_truth": ["陈默, 琼斯, 老琼斯和兄弟会的守护者们"]}
+{"id": 131, "prediction": "两位幸存的佣兵是保罗和", "ground_truth": ["陈默和吉尔"]}
+{"id": 132, "prediction": "陈默对蝙蝠侠说了“", "ground_truth": ["他自称来自另一个宇宙的克拉克·肯特"]}
+{"id": 133, "prediction": "哈维·乔巴，他是第一", "ground_truth": ["清夫人", "太平洋海盗王", "太平洋海盗王清夫人"]}
+{"id": 134, "prediction": "莫林根号, 宇宙号战", "ground_truth": ["宇宙号战舰, 宏伟号战舰"]}
+{"id": 135, "prediction": "《眼泪不是装饰品》。", "ground_truth": ["《情书》"]}
+{"id": 136, "prediction": "木宏村重新开始一个新的人生的", "ground_truth": ["喝醉"]}
+{"id": 137, "prediction": "中森明菜和木村宏是夫妻。", "ground_truth": ["情侣"]}
+{"id": 138, "prediction": "sun music 是冈田有希子出道后的第", "ground_truth": ["1", "一"]}
+{"id": 139, "prediction": "我找不到明确的数据说明具", "ground_truth": ["3", "三", "深田勇也, 中森明菜, 岩井俊二"]}
+{"id": 140, "prediction": "中森明菜第二次去游览寺", "ground_truth": ["表达了夫妻关系和前世轮回的信息"]}
+{"id": 141, "prediction": "木村宏的经纪人有两个，一", "ground_truth": ["1", "一", "1个", "一个"]}
+{"id": 142, "prediction": "《北翼》, 《眼泪不", "ground_truth": ["《如果明天》"]}
+{"id": 143, "prediction": "没有明确写出唐三花费的费", "ground_truth": ["8000元素币", "八千元素币"]}
+{"id": 144, "prediction": "根据文中内容，唐三与小舞建立了特", "ground_truth": ["小舞"]}
+{"id": 145, "prediction": "成皇劫有三种，即雷", "ground_truth": ["登临劫, 天地劫, 踏皇登天"]}
+{"id": 146, "prediction": "苏宁羽一共领过3", "ground_truth": ["1次", "1", "一"]}
+{"id": 147, "prediction": "夜小雨的亲生母亲是", "ground_truth": ["许素梅"]}
+{"id": 148, "prediction": "小说中并没有明确提到有多少个名字", "ground_truth": ["3个", "3", "三"]}
+{"id": 149, "prediction": "苏宁羽的秘书有", "ground_truth": ["黛丽丝, 郝锐斌"]}
+{"id": 150, "prediction": "小说中担任过秘书长的人有", "ground_truth": ["王吉昌, 朱俊万, 古见洪, 田云天, 隋瑜"]}
+{"id": 151, "prediction": "根据描述, 15岁的", "ground_truth": ["不违反", "否"]}
+{"id": 152, "prediction": "庆尘把禁忌物", "ground_truth": ["李叔同"]}
+{"id": 153, "prediction": "庆尘和李叔同第一次", "ground_truth": ["监狱里的阅读区", "监狱里", "阅读区"]}
+{"id": 154, "prediction": "娱乐城堡", "ground_truth": ["娱乐城堡"]}
+{"id": 155, "prediction": "十字剑", "ground_truth": ["潮汐宝石"]}
+{"id": 156, "prediction": "根据文中内容，格林男爵逃", "ground_truth": ["弗莱娅击杀了叛国者菲利普"]}
+{"id": 157, "prediction": "没有明确提到小说中学院的名称。文", "ground_truth": ["艾尔格林学院, 贝拉姆高级学院, 巨龙学院, 鲁丁帝都学院, 黑镰学院, 绯红学院, 黑风学院, 纳沙学院, 绯红之森学院"]}
+{"id": 158, "prediction": "根据文中提到，巫师学院有", "ground_truth": ["火系, 植物系, 风系, 咒法系, 阴影系, 死灵系, 正能量系, 生物系, 负能量系, 电系, 附魔系, 召唤系, 预言系, 塑能系, 冰系, 黑暗系, 符文系, 雷系, 土系, 毒系"]}
+{"id": 159, "prediction": "根据文中描述,乔超的", "ground_truth": ["契丹人", "契丹族"]}
+{"id": 160, "prediction": "根据文中内容,乔超死亡的", "ground_truth": ["雁门关"]}
+{"id": 161, "prediction": "根据文中内容，虚狄云的", "ground_truth": ["少林派方丈玄慈", "方丈", "玄慈"]}
+{"id": 162, "prediction": "没有明确提到叶二娘有", "ground_truth": ["是, 虚狄云", "有, 虚狄云"]}
+{"id": 163, "prediction": "文中没有明确提到巫启", "ground_truth": ["逍遥派"]}
+{"id": 164, "prediction": "乔超的死因是被辽兵所", "ground_truth": ["自杀"]}
+{"id": 165, "prediction": "在文中提到，虚狄云是“", "ground_truth": ["少林派"]}
+{"id": 166, "prediction": "乔超, 珍芳, 阿", "ground_truth": ["珍芳, 乔超, 阿紫, 游坦之, 慕振宁"]}
+{"id": 167, "prediction": "慕振宁。\n\n慕", "ground_truth": ["乔超"]}
+{"id": 168, "prediction": "根据文中描述，小说的故事", "ground_truth": ["北宋"]}
+{"id": 169, "prediction": "根据文中描述，段超群是小", "ground_truth": ["小人国"]}
+{"id": 170, "prediction": "祁宁英是祁家第四代。", "ground_truth": ["第三代", "3", "三"]}
+{"id": 171, "prediction": "\n\n祁宁震和祁", "ground_truth": ["祁宁震是祁宁英的二弟", "兄弟", "祁宁震是祁宁英的弟弟", "祁宁英是祁宁震的哥哥"]}
+{"id": 172, "prediction": "根据文章内容，鑫兴是祁家", "ground_truth": ["第四代", "4", "四"]}
+{"id": 173, "prediction": "祁宁英的儿子是祁", "ground_truth": ["鑫兴与恺芯"]}
+{"id": 174, "prediction": "在文中并没有明确提到谁打算", "ground_truth": ["陈三"]}
+{"id": 175, "prediction": "根据文中内容, 素云, 曼", "ground_truth": ["曼娘弟弟, 曼娘父亲, 姚老先生, 素云"]}
+{"id": 176, "prediction": "雪花是第三个出场的。", "ground_truth": ["阿瑄"]}
+{"id": 177, "prediction": "根据文中内容, 莫愁和阿", "ground_truth": ["曼娘"]}
+{"id": 178, "prediction": "姚老先生。\n\n文中提到“四十", "ground_truth": ["姚老先生"]}
+{"id": 179, "prediction": "汪晓星第二次登录《面", "ground_truth": ["周武松, 汉武帝"]}
+{"id": 180, "prediction": "艾AA和云天明。\n\n根据文中内", "ground_truth": ["史立方"]}
+{"id": 181, "prediction": "根据文中描述，罗大", "ground_truth": ["杨坤, 叶婕姗, 罗大佑"]}
+{"id": 182, "prediction": "根据文中内容，潘晓瑞", "ground_truth": ["叶婕姗"]}
+{"id": 183, "prediction": "潘晓瑞将一颗星星", "ground_truth": ["杀死申文心"]}
+{"id": 184, "prediction": "汪晓星一共进入了两次《面", "ground_truth": ["6", "6次", "六", "六次"]}
+{"id": 185, "prediction": "以下都是太空城：\n首都地球一号\n", "ground_truth": ["首都地球一号, 太平洋一号, 亚洲一号, 欧洲六号, 北美一号, 大洋洲一号"]}
+{"id": 186, "prediction": "地球面壁组织的实际", "ground_truth": ["李浓樟"]}
+{"id": 187, "prediction": "程远贺。\n\n根据文中内容", "ground_truth": ["叶婕姗"]}
+{"id": 188, "prediction": "李浓樟在大串联中死亡", "ground_truth": ["救星行动"]}

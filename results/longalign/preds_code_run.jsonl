@@ -1,0 +1,400 @@
+{"id": 0, "prediction": " 2062.", "ground_truth": [4]}
+{"id": 1, "prediction": " undefined because it calls the function func_1159(-x) which", "ground_truth": [1]}
+{"id": 2, "prediction": " undefined, as it is not defined in the given code.", "ground_truth": [-14]}
+{"id": 3, "prediction": " undefined.", "ground_truth": [24]}
+{"id": 4, "prediction": " undefined.", "ground_truth": [4]}
+{"id": 5, "prediction": " 0, not -3. The doc says \"return x - 3", "ground_truth": [6]}
+{"id": 6, "prediction": " 5.", "ground_truth": [5]}
+{"id": 7, "prediction": " not defined in the provided code, so you should compute it by evaluating the", "ground_truth": [1]}
+{"id": 8, "prediction": " not defined in the code snippet you provided.", "ground_truth": [-10]}
+{"id": 9, "prediction": " 7, but I'm not sure if the exact value can be computed", "ground_truth": [11]}
+{"id": 10, "prediction": " undefined as the function only takes integer input and (-5) is a non-", "ground_truth": [7]}
+{"id": 11, "prediction": " 3.", "ground_truth": [-1]}
+{"id": 12, "prediction": " 6.", "ground_truth": [4]}
+{"id": 13, "prediction": " not specified in the code snippet you provided.", "ground_truth": [28]}
+{"id": 14, "prediction": " not given in the code snippet, so I cannot compute it. The doc only", "ground_truth": [-11]}
+{"id": 15, "prediction": " 536, as seen in the doc string:\n\n```\n", "ground_truth": [14]}
+{"id": 16, "prediction": " undefined because the function func_8660 expects an integer argument but you", "ground_truth": [-1]}
+{"id": 17, "prediction": " defined as:\n\nfunc_3568(x) = x", "ground_truth": [12]}
+{"id": 18, "prediction": " not defined in the code you provided.", "ground_truth": [5]}
+{"id": 19, "prediction": " not specified in the code.", "ground_truth": [3]}
+{"id": 20, "prediction": " undefined in the code snippet you provided. The code snippet defines func_64", "ground_truth": [10]}
+{"id": 21, "prediction": " 3.", "ground_truth": [1]}
+{"id": 22, "prediction": " not specified in the doc.", "ground_truth": [-2]}
+{"id": 23, "prediction": " not defined in the code snippet you provided. It looks like func_26", "ground_truth": [11]}
+{"id": 24, "prediction": " not specified in the given code.", "ground_truth": [15]}
+{"id": 25, "prediction": " -24.", "ground_truth": [-3]}
+{"id": 26, "prediction": " defined in the code snippet as follows:\n\ndef func_389", "ground_truth": [4]}
+{"id": 27, "prediction": " stored in the variable func_1068(x) in the code", "ground_truth": [17]}
+{"id": 28, "prediction": " not defined in the doc, so we need to compute it based on the code", "ground_truth": [-6]}
+{"id": 29, "prediction": " 2, not 3.", "ground_truth": [8]}
+{"id": 30, "prediction": " not defined in the code snippet you provided. Please provide the code snippet or explain", "ground_truth": [8]}
+{"id": 31, "prediction": " not specified in the given code.", "ground_truth": [11]}
+{"id": 32, "prediction": " not specified in the code snippet you provided.", "ground_truth": [12]}
+{"id": 33, "prediction": " 11.", "ground_truth": [5]}
+{"id": 34, "prediction": " -11.", "ground_truth": [-11]}
+{"id": 35, "prediction": " not specified in the doc. Can you compute it?", "ground_truth": [-2]}
+{"id": 36, "prediction": " not defined in the code snippet you provided.", "ground_truth": [3]}
+{"id": 37, "prediction": " 3.", "ground_truth": [17]}
+{"id": 38, "prediction": " 10.", "ground_truth": [3]}
+{"id": 39, "prediction": " not defined in the code you provided.", "ground_truth": [13]}
+{"id": 40, "prediction": " 2242.", "ground_truth": [-5]}
+{"id": 41, "prediction": " 16, not 8 as computed in the doc.", "ground_truth": [18]}
+{"id": 42, "prediction": " 10.", "ground_truth": [-7]}
+{"id": 43, "prediction": " defined as:\n\nfunc_6964(x) = x", "ground_truth": [6]}
+{"id": 44, "prediction": " -22.", "ground_truth": [13]}
+{"id": 45, "prediction": " undefined because it is not defined in the code snippet you provided. The doc string", "ground_truth": [6]}
+{"id": 46, "prediction": " 9.", "ground_truth": [23]}
+{"id": 47, "prediction": " 6.", "ground_truth": [9]}
+{"id": 48, "prediction": " undefined as the doc only shows how to compute it for positive x values.", "ground_truth": [-4]}
+{"id": 49, "prediction": " not specified in the code snippet you provided.", "ground_truth": [22]}
+{"id": 50, "prediction": " -2.\n\nTo compute the value of func_942(-", "ground_truth": [-23]}
+{"id": 51, "prediction": " not specified in the code snippet you provided. Could you please provide the code snippet", "ground_truth": [22]}
+{"id": 52, "prediction": " not specified in the given code. The doc shows the definition of some functions,", "ground_truth": [-2]}
+{"id": 53, "prediction": " not defined in the code.", "ground_truth": [4]}
+{"id": 54, "prediction": " undefined as there is a syntax error in the code. The line that defines func", "ground_truth": [7]}
+{"id": 55, "prediction": " undefined because the function func_7163 takes one argument and the argument", "ground_truth": [-4]}
+{"id": 56, "prediction": " -15.", "ground_truth": [7]}
+{"id": 57, "prediction": " defined in the doc as:\n\ndef func_6355(", "ground_truth": [-1]}
+{"id": 58, "prediction": " 10.", "ground_truth": [4]}
+{"id": 59, "prediction": " -8.", "ground_truth": [-18]}
+{"id": 60, "prediction": " -17.", "ground_truth": [-21]}
+{"id": 61, "prediction": " 12110, not 12130 as shown", "ground_truth": [32]}
+{"id": 62, "prediction": " -12.", "ground_truth": [-8]}
+{"id": 63, "prediction": " 0.", "ground_truth": [-17]}
+{"id": 64, "prediction": " 29.", "ground_truth": [10]}
+{"id": 65, "prediction": " 15.", "ground_truth": [10]}
+{"id": 66, "prediction": " not in the doc.", "ground_truth": [13]}
+{"id": 67, "prediction": " 8, not 8061.", "ground_truth": [0]}
+{"id": 68, "prediction": " 10 + 3 = 13.", "ground_truth": [28]}
+{"id": 69, "prediction": " undefined in the provided code.", "ground_truth": [-16]}
+{"id": 70, "prediction": " not specified in the doc.", "ground_truth": [-3]}
+{"id": 71, "prediction": " -7.", "ground_truth": [-10]}
+{"id": 72, "prediction": " not defined in the doc.", "ground_truth": [-5]}
+{"id": 73, "prediction": " not in the doc.", "ground_truth": [-9]}
+{"id": 74, "prediction": " 2400, not 1000.", "ground_truth": [5]}
+{"id": 75, "prediction": " not provided in the code snippet you provided. Can you please provide the code snippet", "ground_truth": [5]}
+{"id": 76, "prediction": " defined in the code as:\n\ndef func_6298(", "ground_truth": [19]}
+{"id": 77, "prediction": " not defined in the given code.", "ground_truth": [8]}
+{"id": 78, "prediction": " not defined in the code snippet provided.", "ground_truth": [-5]}
+{"id": 79, "prediction": " not provided in the given code snippet.", "ground_truth": [-6]}
+{"id": 80, "prediction": " not defined in the code snippet you provided.", "ground_truth": [3]}
+{"id": 81, "prediction": " the sum of the results of the calls to func_462 for the", "ground_truth": [16]}
+{"id": 82, "prediction": " 2.", "ground_truth": [-5]}
+{"id": 83, "prediction": " not provided in the code snippet you provided. Can you please provide the code snippet", "ground_truth": [-31]}
+{"id": 84, "prediction": " undefined because it is not defined in the code snippet you provided. \n\n", "ground_truth": [-8]}
+{"id": 85, "prediction": " not specified in the given code.", "ground_truth": [-16]}
+{"id": 86, "prediction": " a function of x, so we need to evaluate the function at x=7", "ground_truth": [6]}
+{"id": 87, "prediction": " -42.", "ground_truth": [18]}
+{"id": 88, "prediction": " 2.", "ground_truth": [-15]}
+{"id": 89, "prediction": " not shown in the provided code snippet.", "ground_truth": [20]}
+{"id": 90, "prediction": " not specified in the code snippet you provided. Can you please provide me with the", "ground_truth": [-7]}
+{"id": 91, "prediction": " 24.", "ground_truth": [-3]}
+{"id": 92, "prediction": " not specified in the doc.", "ground_truth": [-4]}
+{"id": 93, "prediction": " 5840.", "ground_truth": [-8]}
+{"id": 94, "prediction": " 6.", "ground_truth": [17]}
+{"id": 95, "prediction": " 3.", "ground_truth": [8]}
+{"id": 96, "prediction": " 30000.", "ground_truth": [-11]}
+{"id": 97, "prediction": " 3.", "ground_truth": [-15]}
+{"id": 98, "prediction": " not specified in the given code snippet.", "ground_truth": [-14]}
+{"id": 99, "prediction": " 8443.", "ground_truth": [29]}
+{"id": 100, "prediction": " not specified in the code snippet you provided.", "ground_truth": [35]}
+{"id": 101, "prediction": " not defined in the code you provided.", "ground_truth": [-16]}
+{"id": 102, "prediction": " 0, not 10.", "ground_truth": [-21]}
+{"id": 103, "prediction": " not specified in the code provided.", "ground_truth": [-9]}
+{"id": 104, "prediction": " not defined in the given code snippet.", "ground_truth": [-13]}
+{"id": 105, "prediction": " not shown in the given code snippet.", "ground_truth": [-15]}
+{"id": 106, "prediction": " 5, not 4 as stated in the doc.", "ground_truth": [-5]}
+{"id": 107, "prediction": " -12.", "ground_truth": [0]}
+{"id": 108, "prediction": " 30.", "ground_truth": [22]}
+{"id": 109, "prediction": " 3536, but I don’       ", "ground_truth": [8]}
+{"id": 110, "prediction": " not specified in the provided code snippet.", "ground_truth": [-17]}
+{"id": 111, "prediction": " not defined in the code you provided.", "ground_truth": [0]}
+{"id": 112, "prediction": " 1413.", "ground_truth": [-4]}
+{"id": 113, "prediction": " not defined in the doc, so you will need to compute it manually.", "ground_truth": [-23]}
+{"id": 114, "prediction": " -7.", "ground_truth": [-17]}
+{"id": 115, "prediction": " 165.", "ground_truth": [16]}
+{"id": 116, "prediction": " not defined in the provided code.", "ground_truth": [-25]}
+{"id": 117, "prediction": " 0.", "ground_truth": [11]}
+{"id": 118, "prediction": " 4.", "ground_truth": [12]}
+{"id": 119, "prediction": " not defined in the code snippet you provided. Can you please provide more context or", "ground_truth": [14]}
+{"id": 120, "prediction": " not defined in the code you provided.", "ground_truth": [-19]}
+{"id": 121, "prediction": " not defined in the code snippet you provided.", "ground_truth": [3]}
+{"id": 122, "prediction": " not in the provided code. The code only contains the definition of the function func", "ground_truth": [-3]}
+{"id": 123, "prediction": " not specified in the given code snippet.", "ground_truth": [17]}
+{"id": 124, "prediction": " 0, but you compute 1 in the code.", "ground_truth": [-4]}
+{"id": 125, "prediction": " not defined in the code you provided.", "ground_truth": [0]}
+{"id": 126, "prediction": " 57.", "ground_truth": [-21]}
+{"id": 127, "prediction": " not defined in the code snippet you provided.", "ground_truth": [-13]}
+{"id": 128, "prediction": " not defined in the code snippet you provided.", "ground_truth": [24]}
+{"id": 129, "prediction": " not defined in the code you provided.", "ground_truth": [19]}
+{"id": 130, "prediction": " 4281.", "ground_truth": [-13]}
+{"id": 131, "prediction": " not defined in the code provided, and it is not clear what func_3", "ground_truth": [9]}
+{"id": 132, "prediction": " not defined in the code you provided. Can you please provide the code that defines", "ground_truth": [-13]}
+{"id": 133, "prediction": " 37, but the exact value is not given in the code snippet you", "ground_truth": [13]}
+{"id": 134, "prediction": " not specified in the provided code.", "ground_truth": [1]}
+{"id": 135, "prediction": " undefined because the function func_6061 does not have a definition for", "ground_truth": [-18]}
+{"id": 136, "prediction": " 5709, not 5738.", "ground_truth": [14]}
+{"id": 137, "prediction": " not defined in the given code.", "ground_truth": [-6]}
+{"id": 138, "prediction": " not specified in the doc.", "ground_truth": [9]}
+{"id": 139, "prediction": " not defined in the given code snippet.", "ground_truth": [8]}
+{"id": 140, "prediction": " -4 + 9 = -5.", "ground_truth": [0]}
+{"id": 141, "prediction": " not specified in the given code.", "ground_truth": [-11]}
+{"id": 142, "prediction": " 3297.", "ground_truth": [6]}
+{"id": 143, "prediction": " not defined in the given code.", "ground_truth": [11]}
+{"id": 144, "prediction": " defined in the code as:\n\ndef func_8276(", "ground_truth": [7]}
+{"id": 145, "prediction": " not defined in the code you provided.", "ground_truth": [-5]}
+{"id": 146, "prediction": " not shown in the provided code. You need to compute it.", "ground_truth": [-19]}
+{"id": 147, "prediction": " not specified in the code snippet provided. Can you compute it?", "ground_truth": [5]}
+{"id": 148, "prediction": " not specified in the doc.", "ground_truth": [14]}
+{"id": 149, "prediction": " 1.", "ground_truth": [-3]}
+{"id": 150, "prediction": " not clear from the code snippet provided.", "ground_truth": [-8]}
+{"id": 151, "prediction": " 3.", "ground_truth": [6]}
+{"id": 152, "prediction": " 13.", "ground_truth": [9]}
+{"id": 153, "prediction": " not specified in the given code.", "ground_truth": [-1]}
+{"id": 154, "prediction": " undefined as it takes an input of a negative number, which is not allowed in", "ground_truth": [-11]}
+{"id": 155, "prediction": " undefined because the function is not defined for negative numbers.", "ground_truth": [-14]}
+{"id": 156, "prediction": " 5, but the function only computes integer values, so 5 is", "ground_truth": [20]}
+{"id": 157, "prediction": " not defined in the given code snippet.", "ground_truth": [12]}
+{"id": 158, "prediction": " 0.", "ground_truth": [-19]}
+{"id": 159, "prediction": " not defined in the doc.", "ground_truth": [5]}
+{"id": 160, "prediction": " not defined in the provided code snippet, so we cannot compute its exact value.", "ground_truth": [29]}
+{"id": 161, "prediction": " 123.", "ground_truth": [25]}
+{"id": 162, "prediction": " not specified in the provided code. To compute func_7186(-", "ground_truth": [22]}
+{"id": 163, "prediction": " not shown in the code snippet you provided.", "ground_truth": [11]}
+{"id": 164, "prediction": " 1017.", "ground_truth": [37]}
+{"id": 165, "prediction": " undefined according to the provided code.", "ground_truth": [-18]}
+{"id": 166, "prediction": " -2.", "ground_truth": [0]}
+{"id": 167, "prediction": " 3.", "ground_truth": [-8]}
+{"id": 168, "prediction": " 5.", "ground_truth": [28]}
+{"id": 169, "prediction": " 5.", "ground_truth": [4]}
+{"id": 170, "prediction": " the number 16.", "ground_truth": [58]}
+{"id": 171, "prediction": " not shown in the code snippet you provided.", "ground_truth": [39]}
+{"id": 172, "prediction": " not specified in the provided code snippet, so it cannot be computed.", "ground_truth": [9]}
+{"id": 173, "prediction": " not defined in the code you provided. The code you provided defines a bunch of", "ground_truth": [21]}
+{"id": 174, "prediction": " 1997.", "ground_truth": [6]}
+{"id": 175, "prediction": " not defined in the code snippet you provided.", "ground_truth": [-4]}
+{"id": 176, "prediction": " -128.", "ground_truth": [49]}
+{"id": 177, "prediction": " 6138.", "ground_truth": [21]}
+{"id": 178, "prediction": " not given in the code snippet you provided, so I cannot compute its value.", "ground_truth": [-17]}
+{"id": 179, "prediction": " a constant, so you only need to compute it once.", "ground_truth": [20]}
+{"id": 180, "prediction": " 1421.", "ground_truth": [29]}
+{"id": 181, "prediction": " not provided in the given code snippet.", "ground_truth": [20]}
+{"id": 182, "prediction": " 12.", "ground_truth": [27]}
+{"id": 183, "prediction": " not defined in the code you provided.", "ground_truth": [14]}
+{"id": 184, "prediction": " 2019.", "ground_truth": [12]}
+{"id": 185, "prediction": " 5, not 6 as stated in the doc.", "ground_truth": [35]}
+{"id": 186, "prediction": " 4590, not 4591.", "ground_truth": [22]}
+{"id": 187, "prediction": " not provided in the given code snippet, and there are no other relevant code sni", "ground_truth": [36]}
+{"id": 188, "prediction": " not defined in the code snippet you provided.", "ground_truth": [36]}
+{"id": 189, "prediction": " -18, not -21 as stated in the doc.", "ground_truth": [-6]}
+{"id": 190, "prediction": " 13.", "ground_truth": [12]}
+{"id": 191, "prediction": " 4 + 12 = 16.", "ground_truth": [35]}
+{"id": 192, "prediction": " not defined in the given code snippet.", "ground_truth": [49]}
+{"id": 193, "prediction": " -10.", "ground_truth": [10]}
+{"id": 194, "prediction": " not specified in the given code snippet.", "ground_truth": [8]}
+{"id": 195, "prediction": " not defined in the code snippet you provided. Can you please provide the code snippet", "ground_truth": [6]}
+{"id": 196, "prediction": " undefined as it is not defined in the code you provided. The code you provided", "ground_truth": [17]}
+{"id": 197, "prediction": " not defined in the doc.", "ground_truth": [42]}
+{"id": 198, "prediction": " not defined in the code you provided.", "ground_truth": [-1]}
+{"id": 199, "prediction": " not defined in the code you provided. Can you please provide the correct code or", "ground_truth": [21]}
+{"id": 200, "prediction": " 2.", "ground_truth": [55]}
+{"id": 201, "prediction": " not specified in the code snippet provided. The code snippet defines a few functions that", "ground_truth": [37]}
+{"id": 202, "prediction": " not in the doc.", "ground_truth": [63]}
+{"id": 203, "prediction": " not provided in the given code snippet.", "ground_truth": [58]}
+{"id": 204, "prediction": " not specified in the code snippet you provided.", "ground_truth": [46]}
+{"id": 205, "prediction": " not defined in the code snippet you provided. The function func_913", "ground_truth": [-10]}
+{"id": 206, "prediction": " not defined in the provided code snippet. The code snippet only defines func_2", "ground_truth": [42]}
+{"id": 207, "prediction": " 3009.", "ground_truth": [11]}
+{"id": 208, "prediction": " not specified in the given code.", "ground_truth": [33]}
+{"id": 209, "prediction": " 183.", "ground_truth": [26]}
+{"id": 210, "prediction": " -2.", "ground_truth": [40]}
+{"id": 211, "prediction": " 1008.", "ground_truth": [57]}
+{"id": 212, "prediction": " not given in the code snippet provided. Can you please compute it?", "ground_truth": [48]}
+{"id": 213, "prediction": " undefined since it is not a valid argument type for func_3450", "ground_truth": [57]}
+{"id": 214, "prediction": " not specified in the given code.", "ground_truth": [49]}
+{"id": 215, "prediction": " 1470, not 1501 as stated in the", "ground_truth": [16]}
+{"id": 216, "prediction": " -4, but the doc does not show how to compute this.", "ground_truth": [15]}
+{"id": 217, "prediction": " not defined in the code you provided.", "ground_truth": [34]}
+{"id": 218, "prediction": " not defined in the code snippet you provided.", "ground_truth": [7]}
+{"id": 219, "prediction": " 16.", "ground_truth": [-24]}
+{"id": 220, "prediction": " 123.", "ground_truth": [24]}
+{"id": 221, "prediction": " not defined in the code snippet you provided.", "ground_truth": [2]}
+{"id": 222, "prediction": " 6170.", "ground_truth": [48]}
+{"id": 223, "prediction": " defined in the docstring as:\n\n```\ndef func_51", "ground_truth": [-3]}
+{"id": 224, "prediction": " undefined because there is no definition for func_6800(0)", "ground_truth": [-5]}
+{"id": 225, "prediction": " not shown in the content of the functions_module.py file.", "ground_truth": [36]}
+{"id": 226, "prediction": " the 16th term of the Fibonacci sequence, which starts", "ground_truth": [32]}
+{"id": 227, "prediction": " 0, not -1.", "ground_truth": [43]}
+{"id": 228, "prediction": " expected to be -15, but the computed value is -6.", "ground_truth": [4]}
+{"id": 229, "prediction": " not defined in the given code snippet.", "ground_truth": [12]}
+{"id": 230, "prediction": " -8.", "ground_truth": [30]}
+{"id": 231, "prediction": " not shown in the code snippet you provided.", "ground_truth": [51]}
+{"id": 232, "prediction": " defined as:\n\ndef func_3722(x):\n", "ground_truth": [-24]}
+{"id": 233, "prediction": " not specified in the code snippet you provided.", "ground_truth": [35]}
+{"id": 234, "prediction": " 1001.", "ground_truth": [39]}
+{"id": 235, "prediction": " not defined in the given code snippet. Please provide the code snippet that defines func", "ground_truth": [-15]}
+{"id": 236, "prediction": " not defined in the code snippet you provided. Can you please provide the full code", "ground_truth": [57]}
+{"id": 237, "prediction": " not specified in the provided code.", "ground_truth": [40]}
+{"id": 238, "prediction": " undefined, as the function func_5576 takes two arguments and is", "ground_truth": [-4]}
+{"id": 239, "prediction": " -6.", "ground_truth": [35]}
+{"id": 240, "prediction": " undefined since it takes an argument of type int but is being called with a float", "ground_truth": [-45]}
+{"id": 241, "prediction": " undefined in the code snippet you provided.", "ground_truth": [-5]}
+{"id": 242, "prediction": " not defined in the doc. You can compute it by replacing x with -4", "ground_truth": [25]}
+{"id": 243, "prediction": " not defined in the code you provided.", "ground_truth": [22]}
+{"id": 244, "prediction": " not defined in the doc.", "ground_truth": [19]}
+{"id": 245, "prediction": " not provided in the code snippet you provided. Can you please provide the code snippet", "ground_truth": [-22]}
+{"id": 246, "prediction": " 213.", "ground_truth": [21]}
+{"id": 247, "prediction": " not defined in the code you provided.", "ground_truth": [25]}
+{"id": 248, "prediction": " undefined in the given code.", "ground_truth": [-14]}
+{"id": 249, "prediction": " 12.", "ground_truth": [48]}
+{"id": 250, "prediction": " 113.", "ground_truth": [26]}
+{"id": 251, "prediction": " not defined in the given code.", "ground_truth": [6]}
+{"id": 252, "prediction": " not specified in the provided code snippet. Please provide the code snippet for func_", "ground_truth": [58]}
+{"id": 253, "prediction": " 7.", "ground_truth": [15]}
+{"id": 254, "prediction": " not defined in the doc.", "ground_truth": [34]}
+{"id": 255, "prediction": " 3082.", "ground_truth": [49]}
+{"id": 256, "prediction": " not defined in the code you provided. Please check your code for the correct definition", "ground_truth": [-1]}
+{"id": 257, "prediction": " not in the given code snippet.", "ground_truth": [29]}
+{"id": 258, "prediction": " -838.", "ground_truth": [-25]}
+{"id": 259, "prediction": " 11.", "ground_truth": [-1]}
+{"id": 260, "prediction": " -6.", "ground_truth": [-4]}
+{"id": 261, "prediction": " not defined in the doc.", "ground_truth": [11]}
+{"id": 262, "prediction": " not provided in the given code.", "ground_truth": [4]}
+{"id": 263, "prediction": " 42.", "ground_truth": [-4]}
+{"id": 264, "prediction": " not defined in the given code.", "ground_truth": [26]}
+{"id": 265, "prediction": " 7.", "ground_truth": [-21]}
+{"id": 266, "prediction": " undefined in the code you provided.", "ground_truth": [39]}
+{"id": 267, "prediction": " not in the doc.", "ground_truth": [22]}
+{"id": 268, "prediction": " undefined in the code snippet provided.", "ground_truth": [13]}
+{"id": 269, "prediction": " undefined as it is a function name in the code snippet you provided. You can", "ground_truth": [22]}
+{"id": 270, "prediction": " 22.", "ground_truth": [12]}
+{"id": 271, "prediction": " not explicitly defined in the code snippet you provided.", "ground_truth": [14]}
+{"id": 272, "prediction": " -1.", "ground_truth": [0]}
+{"id": 273, "prediction": " not provided in the code snippet you provided, so it is not possible to compute", "ground_truth": [-19]}
+{"id": 274, "prediction": " not defined in the code snippet you provided.", "ground_truth": [9]}
+{"id": 275, "prediction": " 55.", "ground_truth": [22]}
+{"id": 276, "prediction": " 9, because in the code, func_1736(x", "ground_truth": [16]}
+{"id": 277, "prediction": " not mentioned in the given code.", "ground_truth": [6]}
+{"id": 278, "prediction": " -3909.", "ground_truth": [33]}
+{"id": 279, "prediction": " not specified in the given code.", "ground_truth": [2]}
+{"id": 280, "prediction": " not defined in the doc.", "ground_truth": [24]}
+{"id": 281, "prediction": " -5.", "ground_truth": [38]}
+{"id": 282, "prediction": " not defined in the given code. The code defines func_4781", "ground_truth": [17]}
+{"id": 283, "prediction": " undefined in the code snippet you provided.", "ground_truth": [21]}
+{"id": 284, "prediction": " not defined in the given code snippet.", "ground_truth": [20]}
+{"id": 285, "prediction": " not given in the content of functions_module.py. To compute it,", "ground_truth": [23]}
+{"id": 286, "prediction": " not explicitly defined in the code.", "ground_truth": [12]}
+{"id": 287, "prediction": " not specified in the given code.", "ground_truth": [-8]}
+{"id": 288, "prediction": " defined in the doc as:\n\ndef func_8613(", "ground_truth": [22]}
+{"id": 289, "prediction": " 1.", "ground_truth": [24]}
+{"id": 290, "prediction": " not specified in the provided code.", "ground_truth": [39]}
+{"id": 291, "prediction": " 1797.", "ground_truth": [-26]}
+{"id": 292, "prediction": " not defined in the given code snippet.", "ground_truth": [13]}
+{"id": 293, "prediction": " -12, not -2 as computed in the doc.", "ground_truth": [19]}
+{"id": 294, "prediction": " 1504.", "ground_truth": [20]}
+{"id": 295, "prediction": " not defined in the doc.", "ground_truth": [25]}
+{"id": 296, "prediction": " not provided in the code you provided. You will need to compute it yourself.", "ground_truth": [1]}
+{"id": 297, "prediction": " undefined as it is a function that takes an argument x and returns a value,", "ground_truth": [13]}
+{"id": 298, "prediction": " undefined in the code you provided.", "ground_truth": [-19]}
+{"id": 299, "prediction": " not defined in the code snippet you provided.", "ground_truth": [2]}
+{"id": 300, "prediction": " undefined because it is a negative number and func_6150 expects positive", "ground_truth": [15]}
+{"id": 301, "prediction": " not clear from the code snippet provided.", "ground_truth": [-7]}
+{"id": 302, "prediction": " undefined in the code snippet you provided. The code snippet only defines some functions and", "ground_truth": [11]}
+{"id": 303, "prediction": " not defined in the doc.", "ground_truth": [22]}
+{"id": 304, "prediction": " 7216, not 7212 as stated in the", "ground_truth": [36]}
+{"id": 305, "prediction": " 10.", "ground_truth": [21]}
+{"id": 306, "prediction": " -10.\n\nTo compute the exact value of func\\_57", "ground_truth": [23]}
+{"id": 307, "prediction": " 2.", "ground_truth": [5]}
+{"id": 308, "prediction": " -10.", "ground_truth": [-10]}
+{"id": 309, "prediction": " 10.", "ground_truth": [-3]}
+{"id": 310, "prediction": " not specified in the provided code snippet. Please provide a correct implementation of the function", "ground_truth": [4]}
+{"id": 311, "prediction": " not defined in the code you provided.", "ground_truth": [56]}
+{"id": 312, "prediction": " not defined in the doc, so you will need to compute it manually. To", "ground_truth": [23]}
+{"id": 313, "prediction": " 4238.", "ground_truth": [24]}
+{"id": 314, "prediction": " not defined in the given code snippet.", "ground_truth": [2]}
+{"id": 315, "prediction": " not specified in the provided code.", "ground_truth": [15]}
+{"id": 316, "prediction": " not defined in the given code.", "ground_truth": [34]}
+{"id": 317, "prediction": " undefined according to the code provided.", "ground_truth": [5]}
+{"id": 318, "prediction": " not explicitly defined in the given code snippet.", "ground_truth": [-17]}
+{"id": 319, "prediction": " not specified in the given code snippet.", "ground_truth": [0]}
+{"id": 320, "prediction": " undefined because it represents an invalid function call. The doc shows that func_6", "ground_truth": [92]}
+{"id": 321, "prediction": " not shown in the provided code.", "ground_truth": [10]}
+{"id": 322, "prediction": " not provided in the code snippet you provided. Can you please provide the code snippet", "ground_truth": [63]}
+{"id": 323, "prediction": " 1052.", "ground_truth": [34]}
+{"id": 324, "prediction": " 10, not 13 as computed by the code.", "ground_truth": [54]}
+{"id": 325, "prediction": " not defined in the code snippet you provided. You can compute it by adding ", "ground_truth": [17]}
+{"id": 326, "prediction": " -8.", "ground_truth": [55]}
+{"id": 327, "prediction": " not defined in the code snippet you provided.", "ground_truth": [4]}
+{"id": 328, "prediction": " undefined in the code snippet you provided. Can you please fix the code snippet so", "ground_truth": [21]}
+{"id": 329, "prediction": " undefined as it is not a valid function call.", "ground_truth": [-45]}
+{"id": 330, "prediction": " undefined in the provided code.", "ground_truth": [23]}
+{"id": 331, "prediction": " 1999.", "ground_truth": [4]}
+{"id": 332, "prediction": " not defined in the code you provided.", "ground_truth": [14]}
+{"id": 333, "prediction": " 15, so the exact value of func_5341(-", "ground_truth": [-19]}
+{"id": 334, "prediction": " 3.", "ground_truth": [75]}
+{"id": 335, "prediction": " not specified in the provided code snippet. Please provide the correct code snippet to compute", "ground_truth": [16]}
+{"id": 336, "prediction": " not defined in the code you provided. You can compute func_126", "ground_truth": [40]}
+{"id": 337, "prediction": " -12.", "ground_truth": [14]}
+{"id": 338, "prediction": " undefined because the function func_1245(x) does not have", "ground_truth": [41]}
+{"id": 339, "prediction": " 26.", "ground_truth": [18]}
+{"id": 340, "prediction": " 5058.", "ground_truth": [-32]}
+{"id": 341, "prediction": " 16.\n\nTo compute func\\_2525(-4", "ground_truth": [42]}
+{"id": 342, "prediction": " undefined because it is an invalid argument. The function func_7622", "ground_truth": [-6]}
+{"id": 343, "prediction": " undefined since it is not defined in the given code.", "ground_truth": [46]}
+{"id": 344, "prediction": " 13.", "ground_truth": [16]}
+{"id": 345, "prediction": " not specified in the code you provided.", "ground_truth": [20]}
+{"id": 346, "prediction": " 576.", "ground_truth": [20]}
+{"id": 347, "prediction": " 16.", "ground_truth": [30]}
+{"id": 348, "prediction": " the same as func_6942(9), which is -6", "ground_truth": [38]}
+{"id": 349, "prediction": " defined as follows:\n\ndef func_3498(x):", "ground_truth": [-28]}
+{"id": 350, "prediction": " 1444.", "ground_truth": [62]}
+{"id": 351, "prediction": " not provided in the code you have given.", "ground_truth": [7]}
+{"id": 352, "prediction": " undefined.", "ground_truth": [28]}
+{"id": 353, "prediction": " 13.", "ground_truth": [38]}
+{"id": 354, "prediction": " not defined in the code snippet you provided. Can you please provide the correct code", "ground_truth": [-12]}
+{"id": 355, "prediction": " 1017.", "ground_truth": [45]}
+{"id": 356, "prediction": " 2248.", "ground_truth": [50]}
+{"id": 357, "prediction": " 12, not 14 as computed in the doc.", "ground_truth": [-11]}
+{"id": 358, "prediction": " 14, so the exact value of func_1393(", "ground_truth": [40]}
+{"id": 359, "prediction": " not defined in the given code snippet.", "ground_truth": [89]}
+{"id": 360, "prediction": " not defined in the given code. The doc only defines func_742", "ground_truth": [43]}
+{"id": 361, "prediction": " the result of evaluating the function func_7592(x)", "ground_truth": [17]}
+{"id": 362, "prediction": " expected to be -15, but the provided code does not compute the exact", "ground_truth": [-1]}
+{"id": 363, "prediction": " -12.", "ground_truth": [42]}
+{"id": 364, "prediction": " undefined, since the function func_1227 takes an integer argument and", "ground_truth": [43]}
+{"id": 365, "prediction": " not defined in the given code snippet.", "ground_truth": [29]}
+{"id": 366, "prediction": " 1521.", "ground_truth": [27]}
+{"id": 367, "prediction": " undefined in the code you provided. The code defines func_2585", "ground_truth": [-17]}
+{"id": 368, "prediction": " 10.", "ground_truth": [-12]}
+{"id": 369, "prediction": " 0.", "ground_truth": [18]}
+{"id": 370, "prediction": " 3029.", "ground_truth": [12]}
+{"id": 371, "prediction": " the result of applying the function func_8339 to the input -", "ground_truth": [51]}
+{"id": 372, "prediction": " -3.", "ground_truth": [11]}
+{"id": 373, "prediction": " not defined in the given code snippet.", "ground_truth": [22]}
+{"id": 374, "prediction": " 100.\n\nTo compute func_2714(-", "ground_truth": [-13]}
+{"id": 375, "prediction": " undefined in the code snippet you provided.", "ground_truth": [24]}
+{"id": 376, "prediction": " a fixed number, so it doesn't depend on any variables. The result", "ground_truth": [50]}
+{"id": 377, "prediction": " 5.", "ground_truth": [45]}
+{"id": 378, "prediction": " not shown in the given code.", "ground_truth": [17]}
+{"id": 379, "prediction": " defined to be 0, but you can compute it from the given functions.", "ground_truth": [37]}
+{"id": 380, "prediction": " not defined in the code snippet you provided. Could you please provide the complete code", "ground_truth": [32]}
+{"id": 381, "prediction": " not defined in the code you provided, so you will need to compute it yourself", "ground_truth": [-7]}
+{"id": 382, "prediction": " not specified in the code snippet you provided. Can you please provide the code snippet", "ground_truth": [17]}
+{"id": 383, "prediction": " defined as x + 8, but I want to know the exact value of", "ground_truth": [62]}
+{"id": 384, "prediction": " defined as:\n\nfunc_8175(x) = func", "ground_truth": [63]}
+{"id": 385, "prediction": " not specified in the given code.", "ground_truth": [-1]}
+{"id": 386, "prediction": " 12.", "ground_truth": [22]}
+{"id": 387, "prediction": " the 16th element of the list [0,1,2,", "ground_truth": [-26]}
+{"id": 388, "prediction": " not specified in the code snippet you provided. Can you please provide the code snippet", "ground_truth": [28]}
+{"id": 389, "prediction": " not defined in the code snippet you provided. Can you please provide the correct code", "ground_truth": [28]}
+{"id": 390, "prediction": " supposed to be 2902, but when I compute it using the", "ground_truth": [-53]}
+{"id": 391, "prediction": " defined in the code as:\n\nfunc_925(x):", "ground_truth": [12]}
+{"id": 392, "prediction": " undefined, as there is a syntax error in the code.", "ground_truth": [12]}
+{"id": 393, "prediction": " 31.", "ground_truth": [88]}
+{"id": 394, "prediction": " not provided in the given code. Can you compute it based on the provided code", "ground_truth": [-24]}
+{"id": 395, "prediction": " 3242.", "ground_truth": [16]}
+{"id": 396, "prediction": " 3651, not 3650.", "ground_truth": [21]}
+{"id": 397, "prediction": " not defined in the code you provided.", "ground_truth": [53]}
+{"id": 398, "prediction": " 1920.", "ground_truth": [21]}
+{"id": 399, "prediction": " not defined in the given code. Can you compute it?", "ground_truth": [49]}

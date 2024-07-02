@@ -1,0 +1,394 @@
+{"id": 0, "prediction": "\nA. Resource.pkgname\n\nExplanation:\nThe `", "ground_truth": ["repack_carchive", "B"]}
+{"id": 1, "prediction": "\nA. repack_carchive\n\nThe doc mentions that the `", "ground_truth": ["Configer._set_option", "C"]}
+{"id": 2, "prediction": " C. Configer._set_option\n\nThe code snippet at line ", "ground_truth": ["HelpFormatter._format_args", "A"]}
+{"id": 3, "prediction": "\nA. _init\n\nThe _init option is used to initialize the", "ground_truth": ["_init", "A"]}
+{"id": 4, "prediction": " A. print_sysinfo\n\nExplanation:\n\nThe given", "ground_truth": ["print_color", "C"]}
+{"id": 5, "prediction": "\nD. TestUnconnectedSockets.get_conn_from_", "ground_truth": ["decorating_function", "C"]}
+{"id": 6, "prediction": " A. RootFsDeviceFinder.ask_proc_partitions\n", "ground_truth": ["RootFsDeviceFinder.ask_proc_partitions", "A"]}
+{"id": 7, "prediction": "\nA. RootFsDeviceFinder.ask_proc_partitions", "ground_truth": ["Process.exe", "B"]}
+{"id": 8, "prediction": "\nA. DynaconfDict.__init__\n\nExplanation:", "ground_truth": ["DynaBox.get", "D"]}
+{"id": 9, "prediction": "\nA. _parse_conf_data\n\nThe doc mentions that _", "ground_truth": ["isnamedtupleinstance", "B"]}
+{"id": 10, "prediction": "\nA. list_envs\n\nExplanation:\n\n*", "ground_truth": ["list_envs", "A"]}
+{"id": 11, "prediction": "\nB. parseOptions\n\nThe doc mentions that `parseOptions()` is", "ground_truth": ["parseOptions", "B"]}
+{"id": 12, "prediction": "\nD. parseOptions\n\nThe correct option is \"D. parseOptions", "ground_truth": ["outputDOT", "A"]}
+{"id": 13, "prediction": "\n\nA. generateTasks\n\nThe purpose of this script is to generate", "ground_truth": ["generateTasks", "A"]}
+{"id": 14, "prediction": "\nA. _validate_positive_arg\n\nThe correct option is", "ground_truth": ["getRandomNumberBetween", "B"]}
+{"id": 15, "prediction": "\nA. LenovoFirmwareConfig.imm_size\n\nEx", "ground_truth": ["docommand", "B"]}
+{"id": 16, "prediction": " A. SensorReading.simplestring\n\nExplanation", "ground_truth": ["Bmc.get_system_boot_options", "D"]}
+{"id": 17, "prediction": "\nC. SensorReading.simplestring\n\nExplan", "ground_truth": ["Command.get_health", "A"]}
+{"id": 18, "prediction": "\nB. Session.raw_command\n\nThe given options are:\n", "ground_truth": ["SDREntry.decode_sensor_reading", "C"]}
+{"id": 19, "prediction": "\nA. _Tree._p_resolveConflict\n\nThe doc states", "ground_truth": ["_Tree._p_resolveConflict", "A"]}
+{"id": 20, "prediction": " D. Base.testProvidesInterface.\n\nThe import_c", "ground_truth": ["import_c_extension", "A"]}
+{"id": 21, "prediction": "\n\nA. wintersection_m\n\nBucket from bytes is", "ground_truth": ["bucket_fromBytes", "B"]}
+{"id": 22, "prediction": " A. nextBTreeItems\n\nExplanation:\n\nA.", "ground_truth": ["BTreeItems_seek", "C"]}
+{"id": 23, "prediction": "\nA. uniq\n\nThe reason is that uniq is", "ground_truth": ["uniq", "A"]}
+{"id": 24, "prediction": "\nA. GeometryCollection.__new__\n\nExplanation:\n", "ground_truth": ["Cell._dist", "C"]}
+{"id": 25, "prediction": "\nD. test_from_coordinates\n\nThe code snippet you have", "ground_truth": ["to_ragged_array", "A"]}
+{"id": 26, "prediction": "\nD. test_linearrings_invalid_ndim\n\nEx", "ground_truth": ["rotate", "A"]}
+{"id": 27, "prediction": " A. to_wkb\n\nThe other options are:\n\n1", "ground_truth": ["voronoi_diagram", "B"]}
+{"id": 28, "prediction": "\n\nA. BottomMatcher.add_fixer\n\nThe", "ground_truth": ["BottomMatcher.add_fixer", "A"]}
+{"id": 29, "prediction": "\nC. reduce_tree\n\nExplanation:\nThe doc shows", "ground_truth": ["reduce_tree", "C"]}
+{"id": 30, "prediction": "\nA. _params_from_ellps_map\n\nExplan", "ground_truth": ["_params_from_ellps_map", "A"]}
+{"id": 31, "prediction": "\nA. set_ca_bundle_path\n\nExplanation:", "ground_truth": ["set_ca_bundle_path", "A"]}
+{"id": 32, "prediction": " A. set_ca_bundle_path\n\nExplanation:\n", "ground_truth": ["Proj.get_factors", "C"]}
+{"id": 33, "prediction": " D. ToWGS84Transformation.__new__\n\nThe doc", "ground_truth": ["_filter_properties", "B"]}
+{"id": 34, "prediction": "\nA. _normalize_range_args", "ground_truth": ["_ensure_same_unit", "D"]}
+{"id": 35, "prediction": "\nA. VariableDrawer._draw_array\n\nThe `VariableDrawer`", "ground_truth": ["VariableDrawer._draw_array", "A"]}
+{"id": 36, "prediction": "\nC. VariableDrawer._draw_array\n\nTo visualize a ", "ground_truth": ["_color_variants", "B"]}
+{"id": 37, "prediction": "\n\nA. DealMypyPlugin._handle_pre\n\n", "ground_truth": ["run_solver", "D"]}
+{"id": 38, "prediction": "\n\nA. run_solver", "ground_truth": ["generate_stub", "B"]}
+{"id": 39, "prediction": "\n\nC. generate_stub", "ground_truth": ["DealMypyPlugin._handle_pre", "A"]}
+{"id": 40, "prediction": "\nA. TestInspection.test_get_source_file\n", "ground_truth": ["TestFutureImports.test_interactive", "C"]}
+{"id": 41, "prediction": " D. ModuleGatherer.find_modules\n\nThe doc string says", "ground_truth": ["AttrCompletion.attr_matches", "A"]}
+{"id": 42, "prediction": "\nA. ModuleGatherer.complete\n\nExplanation:\n", "ground_truth": ["FullCurtsiesRepl.mainloop", "D"]}
+{"id": 43, "prediction": "\n\nA. History.find_partial_match_backward\n\n", "ground_truth": ["History.find_partial_match_backward", "A"]}
+{"id": 44, "prediction": "\nA. evaluate_current_attribute\n\nExplanation:\n\n", "ground_truth": ["evaluate_current_expression", "B"]}
+{"id": 45, "prediction": "\n\nA. should_start_context_test_function\n\nThe", "ground_truth": ["qualname_from_frame", "C"]}
+{"id": 46, "prediction": "\nD. PythonFileReporter.parser\n\nThe doc mentions that Py", "ground_truth": ["PyRunner._prepare2", "B"]}
+{"id": 47, "prediction": "\n\nA. Plugins._add_plugin\n\nExplanation:", "ground_truth": ["Plugins._add_plugin", "A"]}
+{"id": 48, "prediction": "\n\nA. Hasher.update\n\nExplanation:\n\n", "ground_truth": ["XmlReporter.xml_file", "D"]}
+{"id": 49, "prediction": "\n\nA. model_analyzer\n\nExplanation:\nThe", "ground_truth": ["model_analyzer", "A"]}
+{"id": 50, "prediction": "\nA. MarginErrFunc.apply\n\nThe doc string mentions that", "ground_truth": ["ICP.explain", "B"]}
+{"id": 51, "prediction": " A. ICP.explain\n\nICP.explain is a", "ground_truth": ["lookup_encoder", "C"]}
+{"id": 52, "prediction": "\n\nA. timeseries_analyzer", "ground_truth": ["timeseries_analyzer", "A"]}
+{"id": 53, "prediction": " A. ModeEnsemble._pick_mode_highest_score\n", "ground_truth": ["ModeEnsemble._pick_mode_highest_score", "A"]}
+{"id": 54, "prediction": "\nA. _TextualFinder._re_search\n\nThe _", "ground_truth": ["InHierarchyFilter._get_root_classes", "D"]}
+{"id": 55, "prediction": "\n\nD. ComprehensionScope._visit_compreh", "ground_truth": ["ChangeCollector.get_changed", "A"]}
+{"id": 56, "prediction": "\n\nA. MoveMethod.get_changes\n\nTo generate the changes", "ground_truth": ["create_fscommands", "B"]}
+{"id": 57, "prediction": "\nD. get_future_names", "ground_truth": ["FilteredResourceObserver._search_resource_creations", "C"]}
+{"id": 58, "prediction": "\nA. _RealFinder._find_primary_without_dot_", "ground_truth": ["_RealFinder._find_primary_without_dot_start", "A"]}
+{"id": 59, "prediction": " D. _str2time\n\nThe docstring mentions that the _str", "ground_truth": ["_str2time", "D"]}
+{"id": 60, "prediction": "\nB. Profile.SwitchTasklet\n\nBased on the doc,", "ground_truth": ["Profile.SwitchTasklet", "B"]}
+{"id": 61, "prediction": "\nA. GreenSSLSocket._socket_connect\n\nExplanation", "ground_truth": ["GreenSSLSocket._socket_connect", "A"]}
+{"id": 62, "prediction": "\nA. Profile.SwitchTasklet\n\nThe doc mentions \"Profile.", "ground_truth": ["backdoor", "C"]}
+{"id": 63, "prediction": " A. GreenSSLSocket._socket_connect.\n\nExplanation", "ground_truth": ["Input._do_read", "B"]}
+{"id": 64, "prediction": " C. _ExecutorManagerThread.wait_result_broken_or_", "ground_truth": ["_ReusablePoolExecutor.get_reusable_executor", "D"]}
+{"id": 65, "prediction": " C. _is_numpy_array_byte_order_mismatch", "ground_truth": ["_mk_common_exceptions", "A"]}
+{"id": 66, "prediction": " A. concurrency_safe_write_rename\n\nThe doc mentions", "ground_truth": ["concurrency_safe_write_rename", "A"]}
+{"id": 67, "prediction": "\nB. MultiprocessingBackend.effective_n_", "ground_truth": ["MemorizedFunc._cached_call", "C"]}
+{"id": 68, "prediction": "\n\nB. Table.from_data\n\nOption A is not valid", "ground_truth": ["LRI._get_flattened_ll", "C"]}
+{"id": 69, "prediction": "\n\nD. JSONLIterator._init_rel_seek\n", "ground_truth": ["SpooledStringIO._traverse_codepoints", "A"]}
+{"id": 70, "prediction": "\nA. _args2cmd\n\nExplanation:\n\n-", "ground_truth": ["mbox_readonlydir.flush", "B"]}
+{"id": 71, "prediction": " A. generate_\n\nThe code mentions \"generate\" several times, such", "ground_truth": ["concat_with_iterable_", "C"]}
+{"id": 72, "prediction": "\nA. group_by_until_\n\nExplanation:\n", "ground_truth": ["group_by_until_", "A"]}
+{"id": 73, "prediction": "\nB. concat_with_iterable_", "ground_truth": ["VirtualTimeScheduler.schedule_absolute", "C"]}
+{"id": 74, "prediction": "\nD. Chain.convert\n\nThe doc mentions that the `Chain", "ground_truth": ["Chain.convert", "D"]}
+{"id": 75, "prediction": "\n\nB. Context.register_function", "ground_truth": ["Parser._generate_operator_funcs", "C"]}
+{"id": 76, "prediction": " C. Parser._generate_operator_funcs\n\nThe doc mentions", "ground_truth": ["to_extension_method", "A"]}
+{"id": 77, "prediction": "\nA. TestCase.create_legacy_engine\n\nThe Y", "ground_truth": ["YaqlFactory.create", "B"]}
+{"id": 78, "prediction": "\n\nA. handle_field_error\n\nhandle_field_error", "ground_truth": ["get_literal_coercer", "B"]}
+{"id": 79, "prediction": "\nA. abstract_coercer\n\nThe doc mentions abstract_co", "ground_truth": ["abstract_coercer", "A"]}
+{"id": 80, "prediction": "\nB. collect_fields\n\nThe doc mentions that `collect_fields", "ground_truth": ["does_fragment_condition_match", "C"]}
+{"id": 81, "prediction": " A. Signature.recover_public_keys\n\nThe doc mentions", "ground_truth": ["Signature.recover_public_keys", "A"]}
+{"id": 82, "prediction": "\n\nD. TooSmallCurve.test_sign_to", "ground_truth": ["PublicKey.verify", "B"]}
+{"id": 83, "prediction": " A. Signature.recover_public_keys.\n\nThe given", "ground_truth": ["_truncate_and_convert_digest", "C"]}
+{"id": 84, "prediction": "\nA. ECDH._do\n\nThe doc string mentions ECD", "ground_truth": ["Util.OFF_test_prove_uniformity", "D"]}
+{"id": 85, "prediction": "\n\nA. _axis_scale\n\nThe code is using the `_", "ground_truth": ["_axis_scale", "A"]}
+{"id": 86, "prediction": "\nA. Spectral.set_edge_arr\n\nExplanation", "ground_truth": ["FeatureExtractor.spectrogram", "B"]}
+{"id": 87, "prediction": "\nA. Spectral.set_edge_arr\n\nThe options are", "ground_truth": ["SpectrogramBase.set_edge_arr", "C"]}
+{"id": 88, "prediction": " B. WSST.wsst\n\nWSST is a wavelet", "ground_truth": ["chirp", "D"]}
+{"id": 89, "prediction": " A. Temporal.get_data\n\nExplanation:\n", "ground_truth": ["Reassign.reassign", "B"]}
+{"id": 90, "prediction": "\nA. render_css\n\nThe doc mentions that `render_css", "ground_truth": ["PyxlParser.feed", "C"]}
+{"id": 91, "prediction": "\nA. transform_tokens\n\nThe doc mentions that the `transform", "ground_truth": ["pyxl_untokenize", "D"]}
+{"id": 92, "prediction": "\n\nA. Collector.append_collected\n\nExplanation", "ground_truth": ["Collector.append_collected", "A"]}
+{"id": 93, "prediction": "\n\nB. BasePropTypes.__validate_types__\n\nThis is", "ground_truth": ["BasePropTypes.__validate_types__", "B"]}
+{"id": 94, "prediction": "\nA. enable_global_typelogged_profiler", "ground_truth": ["Element._get_base_element", "C"]}
+{"id": 95, "prediction": "\nA\n\nTo run the xsdata script, you need to install the", "ground_truth": ["ClassAnalyzer.validate_references", "D"]}
+{"id": 96, "prediction": " B. CodeWriter.write\n\nExplanation:\nThe given options", "ground_truth": ["RelativeHandlerInterface.base_attrs", "A"]}
+{"id": 97, "prediction": "\nA. DependenciesResolver.sorted_classes\n\nExplanation:", "ground_truth": ["DependenciesResolver.resolve_imports", "B"]}
+{"id": 98, "prediction": "\nA. ClassUtils.copy_attributes\n\nExplanation:\n", "ground_truth": ["CodeWriter.write", "C"]}
+{"id": 99, "prediction": " A. build_options\n\nThe question is asking for the correct option for", "ground_truth": ["strongly_connected_components", "D"]}
+{"id": 100, "prediction": "\n\nA. Auth.tune_auth_method\n\nExplan", "ground_truth": ["Auth.tune_auth_method", "A"]}
+{"id": 101, "prediction": "\nA. get_token_from_env\n\nExplanation:", "ground_truth": ["RawAdapter._raise_for_error", "B"]}
+{"id": 102, "prediction": " D. get_token_from_env\n\nOption D is get_", "ground_truth": ["SigV4Auth.add_auth", "C"]}
+{"id": 103, "prediction": "\nA. An2Cn.an2cn\n\nExplanation", "ground_truth": ["_find_executable_and_scripts", "D"]}
+{"id": 104, "prediction": "\nA. An2Cn.__number_to_string\n\nOption", "ground_truth": ["An2Cn.__number_to_string", "A"]}
+{"id": 105, "prediction": "\nA. main\n\nThe correct command is:\npython -m build", "ground_truth": ["build_package_via_sdist", "B"]}
+{"id": 106, "prediction": "\nB. BlockingConnection._create_connection\n\nThe doc mentions \"", "ground_truth": ["AMQPConnector._on_overall_timeout", "C"]}
+{"id": 107, "prediction": "\n\nD. SelectorIOServicesAdapter.set_reader\n\nEx", "ground_truth": ["SelectorIOServicesAdapter.set_reader", "D"]}
+{"id": 108, "prediction": "\nD. AMQPConnector._on_overall_timeout\n", "ground_truth": ["GeventConnection.create_connection", "A"]}
+{"id": 109, "prediction": " C. PollPoller.poll\n\nThis is because:\n", "ground_truth": ["_PollerBase._get_max_wait", "B"]}
+{"id": 110, "prediction": "\nD. PollPoller.poll\n\nTo ensure the Connection", "ground_truth": ["Channel.basic_cancel", "C"]}
+{"id": 111, "prediction": "\nA. FlattenParamsWrapper._init_flatten_params\n\n", "ground_truth": ["find_module_instances", "D"]}
+{"id": 112, "prediction": "\nA. Statistic.create\n\nExplanation:\nThe doc", "ground_truth": ["Statistic.create", "A"]}
+{"id": 113, "prediction": "\nA. STACObject.remove_hierarchical_links\n", "ground_truth": ["ClassificationExtension.summaries", "B"]}
+{"id": 114, "prediction": "\nB. _make_relative_href_url\n\nExplanation", "ground_truth": ["Link.get_href", "C"]}
+{"id": 115, "prediction": " A. patch_datasets_shared_roles.\n\nA.", "ground_truth": ["get_datasets", "D"]}
+{"id": 116, "prediction": " A. post_projects\n\nExplanation:\n\nThe doc mentions", "ground_truth": ["post_projects", "A"]}
+{"id": 117, "prediction": " A. DrxMlflowModel.predict\n\nExplanation:", "ground_truth": ["poll", "B"]}
+{"id": 118, "prediction": "\nA. StringCommand._get_all_bits\n\nExplanation", "ground_truth": ["make_formatted_string_command", "C"]}
+{"id": 119, "prediction": " B. _generate_operation_name.\n\nThe `connect_all", "ground_truth": ["connect_all", "D"]}
+{"id": 120, "prediction": "\n\nA. Host.deploy\n\nExplanation:\n\n*", "ground_truth": ["Host.deploy", "A"]}
+{"id": 121, "prediction": "\n\nB. Host.get_fact\n\nThe doc mentions Host.", "ground_truth": ["Host.get_fact", "B"]}
+{"id": 122, "prediction": "\nA. crontab\n\nThe doc describes how to manage cront", "ground_truth": ["run_host_op", "C"]}
+{"id": 123, "prediction": "\n\nA. LaxBoundedSemaphore.acquire\n\n", "ground_truth": ["Hub.fire_timers", "D"]}
+{"id": 124, "prediction": " C. Transport.establish_connection\n\nThe doc mentions that the", "ground_truth": ["to_rabbitmq_queue_arguments", "A"]}
+{"id": 125, "prediction": "\n\nB. Channel._get\n\nExplanation:\n\nThe", "ground_truth": ["Channel._get", "B"]}
+{"id": 126, "prediction": " A. object_hook.\n\nThe doc mentions using object\\_hook when", "ground_truth": ["Transport.establish_connection", "C"]}
+{"id": 127, "prediction": " C. Exchange.publish\n\nExplanation:\n\n* Option A", "ground_truth": ["Exchange.publish", "D"]}
+{"id": 128, "prediction": "\nD. HTMLTokenizer.consumeNumberEntity\n\nExplanation", "ground_truth": ["BufferedStream.seek", "A"]}
+{"id": 129, "prediction": "\n\nA. HTMLUnicodeInputStream.readChunk\n\nExplan", "ground_truth": ["HTMLParser.mainLoop", "B"]}
+{"id": 130, "prediction": "\nA. HTMLParser.mainLoop\n\nThe doc mentions that when parsing", "ground_truth": ["_NetlocResultMixinBase.port", "C"]}
+{"id": 131, "prediction": "\nA. nofollow\n\nThe description states that nofollow adds rel=\"", "ground_truth": ["BleachSanitizerFilter.merge_characters", "D"]}
+{"id": 132, "prediction": "\nC. get_module_qualname_from_path", "ground_truth": ["test_id", "A"]}
+{"id": 133, "prediction": "\n\nA. _evaluate_ast\n\nThe _evaluate_", "ground_truth": ["concat_string", "B"]}
+{"id": 134, "prediction": "\nC. _log_option_source\n\nDescription:\nThis option", "ground_truth": ["_log_option_source", "C"]}
+{"id": 135, "prediction": " B. try_except_continue.\n\nThe correct option is B.", "ground_truth": ["BanditTestSet._load_builtins", "D"]}
+{"id": 136, "prediction": "\nA. SafeMapper.__missing__\n\nExplanation:\n", "ground_truth": ["SafeMapper.__missing__", "A"]}
+{"id": 137, "prediction": " B. Metrics._get_issue_counts\n\nThe output is", "ground_truth": ["Metrics._get_issue_counts", "B"]}
+{"id": 138, "prediction": " A. Note.from_shorthand\n\nI have found that the", "ground_truth": ["ii7", "C"]}
+{"id": 139, "prediction": "\n\nA. Instrument.note_in_range\n\nThe doc", "ground_truth": ["substitute", "B"]}
+{"id": 140, "prediction": " D. _find_log_index\n\nThe question asks for the function", "ground_truth": ["find_melody", "C"]}
+{"id": 141, "prediction": " D. MidiFile.bytes_to_int\n\nThe Midi", "ground_truth": ["MidiFile.bytes_to_int", "D"]}
+{"id": 142, "prediction": "\n\nA. _Scale.ascending\n\nThis is because when the", "ground_truth": ["_Scale.ascending", "A"]}
+{"id": 143, "prediction": "\nA. MidiFile.bytes_to_int\n\nThe correct", "ground_truth": ["acoustic_snare", "B"]}
+{"id": 144, "prediction": " A. range_check\n\nThe doc tests the `range_check_", "ground_truth": ["TestBaseTimeBuilder.test_build_datetime", "C"]}
+{"id": 145, "prediction": " D. TestDateResolutionFunctions.test_get_date_resol", "ground_truth": ["TestDateResolutionFunctions.test_get_date_resolution_extended_year", "D"]}
+{"id": 146, "prediction": " B. UTCOffset.__repr__\n\nOption B:", "ground_truth": ["TestDurationParserFunctions.test_parse_duration_prescribed_time_outoforder", "A"]}
+{"id": 147, "prediction": " B. parse_repeating_interval\n\nThe docstring for parse", "ground_truth": ["parse_repeating_interval", "B"]}
+{"id": 148, "prediction": " A. parse_timezone\n\nThe doc mentions that parse_timezone", "ground_truth": ["TestTimeParserFunctions.test_parse_datetime_badtype", "C"]}
+{"id": 149, "prediction": "\nB. _fn_children\n\nThe doc string mentions that _fn", "ground_truth": ["dtype_np_to_torch", "A"]}
+{"id": 150, "prediction": " A. _visit_union\n\nThe doc mentions \"union of array", "ground_truth": ["_visit_union", "A"]}
+{"id": 151, "prediction": "\n\nA. dtype_np_to_torch", "ground_truth": ["handler", "B"]}
+{"id": 152, "prediction": "\nA. dtype_np_to_torch", "ground_truth": ["_AutoCastMeta.__getitem__", "D"]}
+{"id": 153, "prediction": " C. SymbolNode.is_ambiguous\n\nBased on the doc", "ground_truth": ["SymbolNode.is_ambiguous", "C"]}
+{"id": 154, "prediction": " C. PackedNode.is_empty\n\nPackedNode.is", "ground_truth": ["TemplateConf.__call__", "D"]}
+{"id": 155, "prediction": " B. CnfWrapper.__eq__\n\nExplanation:\n", "ground_truth": ["ForestTransformer.transform_packed_node", "A"]}
+{"id": 156, "prediction": "\nD. _should_expand\n\nThe doc shows that this option controls", "ground_truth": ["ForestVisitor.visit_packed_node_out", "C"]}
+{"id": 157, "prediction": "\nA. extract_sections\n\nExplanation:\n\nThe doc", "ground_truth": ["create_code_for_nearley_grammar", "B"]}
+{"id": 158, "prediction": "\nA. PythonListener.notify\n\nThe PythonListener class notifies listen", "ground_truth": ["PythonListener.notify", "A"]}
+{"id": 159, "prediction": "\nD. IntegrationTest.testJavaGC\n\nExplanation:", "ground_truth": ["IntegrationTest.testJavaGC", "D"]}
+{"id": 160, "prediction": "\n\nB. start_java_multi_client_server_app\n", "ground_truth": ["start_java_multi_client_server_app", "B"]}
+{"id": 161, "prediction": "\nB. HelloObjects.sendObject\n\nExplanation:\nThe", "ground_truth": ["GatewayClient.shutdown_gateway", "C"]}
+{"id": 162, "prediction": "\nB. JavaPackage.__dir__\n\nThe doc string for the Java", "ground_truth": ["SignalTest.setUp", "A"]}
+{"id": 163, "prediction": " A. _WindowsSelectorEventLoop._socketpair\n\nOption A is the", "ground_truth": ["IocpProactor._result", "B"]}
+{"id": 164, "prediction": " A. BaseSelectorEventLoop.add_writer.\n\nExplanation", "ground_truth": ["BaseSelectorEventLoop.add_writer", "A"]}
+{"id": 165, "prediction": "\n\nA. Task.current_task\n\nExplanation:\n", "ground_truth": ["SubprocessStreamProtocol.process_exited", "C"]}
+{"id": 166, "prediction": " D. _SSLProtocolTransport.pause_reading.\n\nThe doc", "ground_truth": ["IocpProactor.accept", "B"]}
+{"id": 167, "prediction": "\nA. _encode_string\n\nExplanation:\nThe doc", "ground_truth": ["Pattern._from_pointer", "B"]}
+{"id": 168, "prediction": " A. Matrix.inverted\n\nExplanation:\n\nThe", "ground_truth": ["test_size", "C"]}
+{"id": 169, "prediction": "\nC. temp_directory\n\nThe doc mentions:\n\n\"Note", "ground_truth": ["Context.rel_line_to", "A"]}
+{"id": 170, "prediction": " C. test_append_stderr", "ground_truth": ["test_append_stderr", "C"]}
+{"id": 171, "prediction": "\n\nA. TestOutputWidget.test_capture_decorator_", "ground_truth": ["TestOutputWidget.test_capture_decorator_no_clear_output", "A"]}
+{"id": 172, "prediction": "\nD. InstanceDict.validate\n\nExplanation:\n\n", "ground_truth": ["test_time_validate_min_vs_max", "A"]}
+{"id": 173, "prediction": " D. fixed.get_interact_value\n\nThe doc mentions that", "ground_truth": ["test_widget_view", "C"]}
+{"id": 174, "prediction": "\n\nA. test_combobox_creation_blank\n\nThe", "ground_truth": ["test_tooltip_deprecation", "C"]}
+{"id": 175, "prediction": "\nC. TableFormat.from_name\n\nThe docstring for the", "ground_truth": ["WriterLogger.__init__", "A"]}
+{"id": 176, "prediction": " A. validate_python_var_name\n\nThe docstring mentions that", "ground_truth": ["Style.__eq__", "B"]}
+{"id": 177, "prediction": "\nA. _FinalMeta.__new__\n\nThe doc string mentions that", "ground_truth": ["_check_fails", "B"]}
+{"id": 178, "prediction": " A. _get_es_datatype.\n\nExplanation:", "ground_truth": ["TextTableWriter__repr__", "D"]}
+{"id": 179, "prediction": " A. _define_guard\n\nExplanation:\n\nA.", "ground_truth": ["_ExtensionsGenericMeta__subclasscheck__", "C"]}
+{"id": 180, "prediction": "\nA. parse_host_string\n\nThe doc mentions that parse_", "ground_truth": ["parse_host_string", "A"]}
+{"id": 181, "prediction": "\n\nA. _format_error_output\n\nThe doc mentions that", "ground_truth": ["HostConnectionCache.__delitem__", "B"]}
+{"id": 182, "prediction": "\n\nA. open_shell\n\nThe doc mentions that open_shell", "ground_truth": ["_noop", "B"]}
+{"id": 183, "prediction": "\nA. hide\n\nExplanation:\n\nThe doc mentions that", "ground_truth": ["output_loop", "C"]}
+{"id": 184, "prediction": "\nA. _tostr\n\nThe doc mentions that _tostr is", "ground_truth": ["Variable._getdims", "D"]}
+{"id": 185, "prediction": "\n\nA. _quantize\n\nThe doc mentions that the _quant", "ground_truth": ["_quantize", "A"]}
+{"id": 186, "prediction": "\nD. _tostr\n\nOption A: Variable.group\nThis", "ground_truth": ["get_chunk_cache", "C"]}
+{"id": 187, "prediction": "\nA. Dataset.__repr__\n\nExplanation:\n", "ground_truth": ["Dataset.__repr__", "A"]}
+{"id": 188, "prediction": "\nB. get_fun_with_strftime2\n\nThe", "ground_truth": ["Pickler.save", "D"]}
+{"id": 189, "prediction": "\nA. get_fun_with_strftime2\n\nEx", "ground_truth": ["_save_file", "C"]}
+{"id": 190, "prediction": "\nA. _function\n\nThe doc mentions that _function is used to", "ground_truth": ["_function", "A"]}
+{"id": 191, "prediction": "\nA. function_a\n\nDescription:\nThis test suite contains a", "ground_truth": ["function_a", "A"]}
+{"id": 192, "prediction": "\n\nD. Babel.setup\n\nExplanation:\n\n", "ground_truth": ["Jinja2.setup", "B"]}
+{"id": 193, "prediction": "\nD. ExternalTool.input\n\nThe doc mentions that the ExternalTool", "ground_truth": ["FileManifest._load_manifest", "B"]}
+{"id": 194, "prediction": "\nA. Patterns.__str__", "ground_truth": ["relpathto", "D"]}
+{"id": 195, "prediction": "\nA. make_hashable", "ground_truth": ["Jinja2Loader.load_bundles", "C"]}
+{"id": 196, "prediction": "\n\nA. AlwaysUpdater.needs_rebuild\n\n", "ground_truth": ["FileManifest._save_manifest", "D"]}
+{"id": 197, "prediction": " D. AssetsExtension.result_contents\n\nExplanation:\n", "ground_truth": ["BaseEnvironment.config", "B"]}
+{"id": 198, "prediction": "\nA. ParamikoPopen._path_read", "ground_truth": ["ParamikoPopen._path_read", "A"]}
+{"id": 199, "prediction": "\n\nB. PlumbumLocalPopen.__enter__\n\nEx", "ground_truth": ["PlumbumLocalPopen.__enter__", "B"]}
+{"id": 200, "prediction": " D. ask\n\nThe ask module provides a simple way to ask the user", "ground_truth": ["PopenAddons.verify", "B"]}
+{"id": 201, "prediction": "\nA. Progress.display\n\nThe progress display option is A. Progress", "ground_truth": ["LocalMachine.pgrep", "D"]}
+{"id": 202, "prediction": " D. LocalMachine.pgrep", "ground_truth": ["Application.root_app", "C"]}
+{"id": 203, "prediction": "\nD. Manifest._exclude_patterns", "ground_truth": ["_legacy_key", "B"]}
+{"id": 204, "prediction": "\nA. in_venv\n\nThe doc mentions that the `in", "ground_truth": ["DistributionPath.clear_cache", "C"]}
+{"id": 205, "prediction": "\nD. VersionScheme.suggest", "ground_truth": ["VersionScheme.suggest", "D"]}
+{"id": 206, "prediction": " A. AggregatingLocator.get_distribution_names\n\nA", "ground_truth": ["Metadata._validate_value", "B"]}
+{"id": 207, "prediction": "\n\nD. BinaryField.to_mongo\n\nExplanation", "ground_truth": ["BaseQuerySet._cursor_args", "A"]}
+{"id": 208, "prediction": "\nD. _check_db_name\n\nThe code checks the provided", "ground_truth": ["BaseQuerySet.sum", "C"]}
+{"id": 209, "prediction": "\n\nA. EmbeddedDocumentList.delete\n\nExplanation", "ground_truth": ["BaseDict.__setstate__", "B"]}
+{"id": 210, "prediction": "\nA. GridFSProxy.writelines\n\nExplanation:\n", "ground_truth": ["EmbeddedDocumentList.__match_all", "C"]}
+{"id": 211, "prediction": "\nA. Protocol.state\n\nThe doc mentions that the Protocol", "ground_truth": ["_extract_parameters", "B"]}
+{"id": 212, "prediction": "\nA. WebSocketCommonProtocol.read_data_frame\n\nEx", "ground_truth": ["WebSocketCommonProtocol.read_data_frame", "A"]}
+{"id": 213, "prediction": "\nD. d\n\nExplanation:\nThe doc string of the", "ground_truth": ["d", "D"]}
+{"id": 214, "prediction": "\nA. Headers.get_all\n\nExplanation:\n", "ground_truth": ["socket_create_server", "B"]}
+{"id": 215, "prediction": "\nB. TestsCount_N.test_ones\n\nThe Test", "ground_truth": ["TestsCount_N.test_ones", "B"]}
+{"id": 216, "prediction": "\n\nA. frozenbitarray.__hash__", "ground_truth": ["MiscTests.test_to01", "C"]}
+{"id": 217, "prediction": " C. MiscTests.test_to01\n\nThe relevant code", "ground_truth": ["InternalTests.test_copy_n_example", "A"]}
+{"id": 218, "prediction": "\nA. InternalTests.test_copy_n_example", "ground_truth": ["TestsIntervals.test_explicit", "D"]}
+{"id": 219, "prediction": "\n\nA. TestsCount_N.test_ones\n\nOption", "ground_truth": ["InternalTests.test_overlap_shared_random", "B"]}
+{"id": 220, "prediction": "\nA. _OneLineResult\n\nThe docstring for the _One", "ground_truth": ["_OneLineResult", "A"]}
+{"id": 221, "prediction": " A. _OneLineResult\n\nExplanation:\n\n* _", "ground_truth": ["OperatingSystem._CmpHelper", "D"]}
+{"id": 222, "prediction": "\nD. BoldUnderline\n\nThe docstring describes an enum called", "ground_truth": ["_rst_section", "C"]}
+{"id": 223, "prediction": "\nC. BoldUnderline\n\nExplanation:\n\nThe", "ground_truth": ["fn_with_kwarg_and_defaults", "A"]}
+{"id": 224, "prediction": " A. SimpleGrid.h_scroll_right\n\nThe doc mentions that", "ground_truth": ["SimpleGrid.h_scroll_right", "A"]}
+{"id": 225, "prediction": " D. TreeLineAnnotated.getAnnotationAndColor\n\nThe Tree", "ground_truth": ["NPSAppManaged.switchForm", "C"]}
+{"id": 226, "prediction": "\n\nA. Pager.edit\n\nThe doc string for Pager", "ground_truth": ["NPSTreeData.newChild", "D"]}
+{"id": 227, "prediction": "\nB. InputHandler.add_complex_handlers\n\nOption D", "ground_truth": ["InputHandler.add_complex_handlers", "B"]}
+{"id": 228, "prediction": "\n\nC. Widget.do_colors\n\nExplanation:\n", "ground_truth": ["MultiLineTreeView.h_collapse_tree", "B"]}
+{"id": 229, "prediction": " A. MultiLineTree._delMyValues\n\nThe doc shows that when", "ground_truth": ["MultiLineTree._delMyValues", "A"]}
+{"id": 230, "prediction": "\n\nD. FFI.gc\n\nExplanation:\n\n", "ground_truth": ["Recompiler._emit_bytecode_FunctionPtrType", "A"]}
+{"id": 231, "prediction": " D. _get_parser\n\nThe doc mentions _patch_for_", "ground_truth": ["recompile", "B"]}
+{"id": 232, "prediction": "\n\nD. CTypesData._get_own_repr\n\n", "ground_truth": ["CTypesData._get_own_repr", "D"]}
+{"id": 233, "prediction": "\nA. CTypesData._get_own_repr\n\nEx", "ground_truth": ["BaseType.__ne__", "C"]}
+{"id": 234, "prediction": "\nA. Aec.encode\n\nExplanation:\nThe options", "ground_truth": ["Aec.encode", "A"]}
+{"id": 235, "prediction": "\n\nA. snappy_decode\n\nExplanation:\n\n", "ground_truth": ["Aec.encode", "C"]}
+{"id": 236, "prediction": " A. none_decode.\n\nThe question mentions that the JPEG", "ground_truth": ["zopfli_decode", "B"]}
+{"id": 237, "prediction": "\nB. Float24.decode\n\nExplanation:\nThe", "ground_truth": ["lzw_decode", "D"]}
+{"id": 238, "prediction": "\n\nA. log_warning\n\nExplanation:\n\n*", "ground_truth": ["Aec.decode", "C"]}
+{"id": 239, "prediction": "\n\nA. AzureMaps.__init__\n\nOption B. Location", "ground_truth": ["Location.__setstate__", "B"]}
+{"id": 240, "prediction": "\nD. RateLimiter._sleep\n\nExplanation:\n", "ground_truth": ["GoogleV3._parse_json", "A"]}
+{"id": 241, "prediction": "\n\nA. RateLimiter._sleep\n\nThis is because `", "ground_truth": ["Geocodio._get_error_message", "C"]}
+{"id": 242, "prediction": "\nA. warn_deprecation\n\nThe option to enable warnings for", "ground_truth": ["ClientIDMutation.__init_subclass_with_meta__", "B"]}
+{"id": 243, "prediction": "\nA. test_attr_resolver\n\nExplanation:\n", "ground_truth": ["test_attr_resolver", "B"]}
+{"id": 244, "prediction": "\nB. test_uuidstring_query\n\nOption B specifies that", "ground_truth": ["ClientIDMutation.__init_subclass_with_meta__", "A"]}
+{"id": 245, "prediction": "\nA. ClientIDMutation.__init_subclass_with_", "ground_truth": ["JSONString.serialize", "B"]}
+{"id": 246, "prediction": "\n\nD. BaseGauge._remove_time_series\n\n", "ground_truth": ["BaseGauge._remove_time_series", "D"]}
+{"id": 247, "prediction": "\nB. MetricsExporter.shutdown\n\nExplanation", "ground_truth": ["GoogleCloudFormatPropagator.from_headers", "C"]}
+{"id": 248, "prediction": "\nB. TagKey.__new__\n\nExplanation:\nTag", "ground_truth": ["TagKey.__new__", "B"]}
+{"id": 249, "prediction": "\n\nD. MetricDescriptor.label_keys\n\nMetricDescriptor", "ground_truth": ["WeakMethod.__new__", "A"]}
+{"id": 250, "prediction": "\n\nA. set_opencensus_tracer\n\nThe", "ground_truth": ["set_opencensus_tracer", "A"]}
+{"id": 251, "prediction": "\nD. update_matrices_tests.test_update_P\n", "ground_truth": ["update_matrices_tests.test_update_P", "D"]}
+{"id": 252, "prediction": " D. OSQP.solve\n\nTo run the OSQP", "ground_truth": ["basic_tests.test_basic_QP", "C"]}
+{"id": 253, "prediction": " A. render_cmakelists\n\nExplanation:\n\n", "ground_truth": ["codegen_vectors_tests.test_update_u", "C"]}
+{"id": 254, "prediction": " A.\n\nExplanation:\n\n1. The doc tests the", "ground_truth": ["update_matrices_tests.test_update_P_A_indP", "A"]}
+{"id": 255, "prediction": " C. \nThe code for option C is not included in the doc,", "ground_truth": ["codegen_vectors_tests.test_update_u", "B"]}
+{"id": 256, "prediction": "\nD. basic_tests.test_basic_QP\n\nThe", "ground_truth": ["OSQP.derivative_iterative_refinement", "A"]}
+{"id": 257, "prediction": "\nA. LruCache.__getitem__\n\nExplanation:", "ground_truth": ["UVProcess.__cinit__", "D"]}
+{"id": 258, "prediction": " D. Loop._stop\n\nThe doc mentions that calling `Loop._stop", "ground_truth": ["LruCache.__getitem__", "B"]}
+{"id": 259, "prediction": " D. _SSLProtocolTransport.close.\n\nThe doc mentions that the", "ground_truth": ["UVProcess.__cinit__", "B"]}
+{"id": 260, "prediction": " A. UVProcess.__cinit__.\n\nThe doc mentions that", "ground_truth": ["find_free_port", "B"]}
+{"id": 261, "prediction": "\nC. WriteSubprocessPipeProto.connection_made\n\n", "ground_truth": ["UVProcessTransport.is_closing", "B"]}
+{"id": 262, "prediction": " D. find_free_port\n\nI'm sorry, I'", "ground_truth": ["UVFSEvent.cancel", "C"]}
+{"id": 263, "prediction": "\nA. _might_be_rich_text\n\nThe doc", "ground_truth": ["_might_be_rich_text", "A"]}
+{"id": 264, "prediction": "\nA. _get_pydantic_model\n\nExplanation", "ground_truth": ["_QTableExtended.keyPressEvent", "B"]}
+{"id": 265, "prediction": " A. _might_be_rich_text\n\nExplanation", "ground_truth": ["BaseApplicationBackend._mgui_get_native_app", "D"]}
+{"id": 266, "prediction": "\n\nA. ValueWidget._on_value_change\n\nExplan", "ground_truth": ["ScalarMappable.set_clim", "B"]}
+{"id": 267, "prediction": "\nD. FakeWsgiInput.get_socket\n\nThe", "ground_truth": ["NoMemcacheAuthToken.test_nomemcache", "B"]}
+{"id": 268, "prediction": "\nB. OAuth2mTlsProtocol.__init__\n\nThe", "ground_truth": ["BaseAuthProtocol.__call__", "A"]}
+{"id": 269, "prediction": "\nD. _hash_key\n\nThe _hash_key() function", "ground_truth": ["_hash_key", "D"]}
+{"id": 270, "prediction": "\nD. AuthTokenFixture.tokens\n\nThe correct option is", "ground_truth": ["_TestConnectionPool._create_connection", "B"]}
+{"id": 271, "prediction": "\nA. open_browser\n\nExplanation:\nThe doc string", "ground_truth": ["AllModules.__getitem__", "B"]}
+{"id": 272, "prediction": "\nA. Markdown._detab_line\n\nThe docstring indicates", "ground_truth": ["header_id_from_text", "C"]}
+{"id": 273, "prediction": "\nA. Variable.__repr__\n\nExplanation:\n\n", "ground_truth": ["Markdown._encode_amps_and_angles", "B"]}
+{"id": 274, "prediction": "\n\nA. Markdown._find_non_whitespace\n\n", "ground_truth": ["Markdown._find_non_whitespace", "A"]}
+{"id": 275, "prediction": "\n\nD. Markdown._detab_line\n\nThis is because", "ground_truth": ["AllModules.__getitem__", "B"]}
+{"id": 276, "prediction": " A. house_robber\n\nExplanation:\nHouse Rob", "ground_truth": ["house_robber", "A"]}
+{"id": 277, "prediction": "\nD. min_distance.", "ground_truth": ["find_primitive_root", "B"]}
+{"id": 278, "prediction": "\nA. check_pangram\n\nThe question is asking to check", "ground_truth": ["find_path", "B"]}
+{"id": 279, "prediction": " A. dfs\n\nExplanation:\nDFS (Depth", "ground_truth": ["SeparateChainingHashTable.__setitem__", "D"]}
+{"id": 280, "prediction": " B. reverse_bits.\n\nReverse bits is a method that takes", "ground_truth": ["summarize_ranges", "A"]}
+{"id": 281, "prediction": "\nB. _DependencyList.__contains__\n\nThe docstring shows", "ground_truth": ["_DependencyList.__contains__", "B"]}
+{"id": 282, "prediction": " D. Breakage.as_dict\n\nThe docstring section raises", "ground_truth": ["ObjectAliasMixin.is_public", "A"]}
+{"id": 283, "prediction": "\nD. Alias.canonical_path\n\nExplanation", "ground_truth": ["Alias.canonical_path", "D"]}
+{"id": 284, "prediction": "\nA. Breakage.as_dict\n\nThe docstring for the", "ground_truth": ["Expr.__iter__", "C"]}
+{"id": 285, "prediction": "\nA. _Logger.__getattr__\n\nThe docstring section R", "ground_truth": ["_DependencyList.__len__", "B"]}
+{"id": 286, "prediction": " A. DeserializationMethodVisitor.mapping\n\nThe doc mentions", "ground_truth": ["DeserializationMethodVisitor.mapping", "A"]}
+{"id": 287, "prediction": "\nB. CacheAwareDict.__len__\n\nThe doc mentions in", "ground_truth": ["DeserializationMethodVisitor.object", "D"]}
+{"id": 288, "prediction": "\nB. ObjectField.is_aggregate\n\nExplanation:", "ground_truth": ["_properties_schema", "D"]}
+{"id": 289, "prediction": " A. mutations\n\nThe doc mentions mutations in the following lines:", "ground_truth": ["register", "B"]}
+{"id": 290, "prediction": "\nA. object_fields2\n\nExplanation:\nThe doc", "ground_truth": ["isolate_ref", "C"]}
+{"id": 291, "prediction": "\nA. UC480.set_color_mode\n\n", "ground_truth": ["ext_query_with_srq_sync", "B"]}
+{"id": 292, "prediction": " C. BPC303.detect_devices\n\nThe", "ground_truth": ["KDC101.soft_limits_mode", "A"]}
+{"id": 293, "prediction": " D. check_error\n\nExplanation:\n\nA. Da", "ground_truth": ["check_error", "D"]}
+{"id": 294, "prediction": "\nA. TSL550.wavelength_logging_number", "ground_truth": ["MAX31X.Z_MAX", "B"]}
+{"id": 295, "prediction": "\nB. interesting_default_value\n\nThe docstring for the interesting", "ground_truth": ["Application.print_alias_help", "A"]}
+{"id": 296, "prediction": " C. MyLoader1._add_arguments\n\nA. TestSingleton", "ground_truth": ["TestApplication.test_cli_allow_none", "B"]}
+{"id": 297, "prediction": "\nA. class_to_names\n\nExplanation:\n\n", "ground_truth": ["_Sentinel.__repr__", "C"]}
+{"id": 298, "prediction": " A. SingletonConfigurable._walk_mro\n\nExplanation", "ground_truth": ["TraitType.from_string", "C"]}
+{"id": 299, "prediction": "\n\nA. bech32_create_checksum\n\nThis", "ground_truth": ["bech32_verify_checksum", "B"]}
+{"id": 300, "prediction": "\n\nA. get_semantic\n\nThis is a Python library for", "ground_truth": ["decode", "D"]}
+{"id": 301, "prediction": "\nA. Signature.parse\n\nThe doc shows several examples of using", "ground_truth": ["PrivateKey.sign", "D"]}
+{"id": 302, "prediction": "\nC. bech32_create_checksum\n\nThe doc", "ground_truth": ["FieldElement.__rmul__", "A"]}
+{"id": 303, "prediction": "\nA. generate_addresses", "ground_truth": ["generate_addresses", "A"]}
+{"id": 304, "prediction": "\nA. sha256", "ground_truth": ["hash160", "C"]}
+{"id": 305, "prediction": "\nB. QtKernelClientMixin.stop_channels\n", "ground_truth": ["ConsoleWidget._event_filter_page_keypress", "C"]}
+{"id": 306, "prediction": "\nD. FrontendHighlighter.__init__\n\nExplanation", "ground_truth": ["FrontendWidget._kernel_restarted_message", "A"]}
+{"id": 307, "prediction": " D. test_input_and_print\n\nThe `test_input", "ground_truth": ["BaseFrontendMixin._stopped_channels", "C"]}
+{"id": 308, "prediction": "\nD. JupyterQtConsoleApp.new_frontend_master\n", "ground_truth": ["TestConsoleWidget.test_keypresses", "C"]}
+{"id": 309, "prediction": "\nA. TestJWK.test_create_pubKeys\n\n", "ground_truth": ["TestJWK.test_create_pubKeys", "B"]}
+{"id": 310, "prediction": "\nA. Cookbook08JWETests.Cookbook08", "ground_truth": ["JWK._rsa_pri_n", "B"]}
+{"id": 311, "prediction": "\nA. JWS.jose_header\n\nThe given code has", "ground_truth": ["JWS.jose_header", "A"]}
+{"id": 312, "prediction": "\nB. _EcdhEs._check_key\n\nThis test", "ground_truth": ["_RawJWE.encrypt", "A"]}
+{"id": 313, "prediction": "\nB. TestJWK.test_create_priKeys", "ground_truth": ["ConformanceTeststest_jws_loopback", "C"]}
+{"id": 314, "prediction": "\nA. get_local_timezone\n\nThe code defines the `", "ground_truth": ["Transition.__init__", "B"]}
+{"id": 315, "prediction": "\n\nA. week_ends_at\n\nExplanation:\n", "ground_truth": ["_get_iso_8601_week", "D"]}
+{"id": 316, "prediction": "\nA. set_test_now\n\nThe doc mentions that set_", "ground_truth": ["Period.__new__", "D"]}
+{"id": 317, "prediction": "\n\nA. DateTime.set\n\nThe code snippet for this option is", "ground_truth": ["DateTime.timezone_name", "D"]}
+{"id": 318, "prediction": "\n\nA. set_test_now\n\nExplanation:\n", "ground_truth": ["Date.age", "C"]}
+{"id": 319, "prediction": " A. socksocket.__recvall\n\nThe doc shows that so", "ground_truth": ["wrapmodule", "C"]}
+{"id": 320, "prediction": "\nA. _build_ssl_context\n\nThe doc shows that the", "ground_truth": ["where", "D"]}
+{"id": 321, "prediction": "\nA. Authentication.__le__\n\nExplanation:\n\n*", "ground_truth": ["Authentication.__le__", "A"]}
+{"id": 322, "prediction": " B. _wsse_username_token\n\nThe _wsse_", "ground_truth": ["_wsse_username_token", "B"]}
+{"id": 323, "prediction": " A. _parse_cache_control\n\nThe doc shows that _parse", "ground_truth": ["Credentials.add", "B"]}
+{"id": 324, "prediction": "\nD. socksocket.sendall\n\nThe doc mentions that `", "ground_truth": ["_updateCache", "C"]}
+{"id": 325, "prediction": "\nA. Request.duplicate_params\n\nExplanation:\n", "ground_truth": ["Request.duplicate_params", "A"]}
+{"id": 326, "prediction": "\nD. Screen.__init__\n\nExplanation:\n\n*", "ground_truth": ["ParticleEmitter._find_colour", "C"]}
+{"id": 327, "prediction": "\nB. TemporaryCanvas._reset\n\nExplanation:\n", "ground_truth": ["Label.update", "C"]}
+{"id": 328, "prediction": " A. ignores_leakcheck.\n\nA. ignores_", "ground_truth": ["test_falling_off_end_switches_to_unstarted_parent_works", "C"]}
+{"id": 329, "prediction": "\n\nA. TestGreenlet.test_dealloc_switch_args", "ground_truth": ["TestGreenlet.test_dealloc_switch_args_not_lost", "A"]}
+{"id": 330, "prediction": " B. TestPSL.test_suffix_deny_public", "ground_truth": ["TestPSL.test_suffix_deny_public", "B"]}
+{"id": 331, "prediction": "\nB. TestPSLSections.test_icann\n\nThe", "ground_truth": ["TestPSL.test_publicsuffix", "C"]}
+{"id": 332, "prediction": " A. decode_idn.\n\nThe options given in the doc are", "ground_truth": ["updatePSL", "C"]}
+{"id": 333, "prediction": "\n\nA. concat_or_none\n\nExplanation:", "ground_truth": ["_SparkXGBParams._set_xgb_params_default", "C"]}
+{"id": 334, "prediction": " B. _read_csr_matrix_from_unwrapped", "ground_truth": ["_SparkXGBParams._get_fit_params_default", "C"]}
+{"id": 335, "prediction": "\nA. make_qdm\n\nBecause the doc mentions that make", "ground_truth": ["_SparkXGBEstimator.write", "B"]}
+{"id": 336, "prediction": "\nA. SparkXGBClassifier._pyspark_model_cls", "ground_truth": ["_SparkXGBParams._set_predict_params_default", "B"]}
+{"id": 337, "prediction": " D. multiControllerNet\n\nThe doc mentions creating a network from semi-", "ground_truth": ["LegacyRouter.config", "B"]}
+{"id": 338, "prediction": "\n\nB. CPULimitedHost.init\n\nExplanation", "ground_truth": ["CPULimitedHost.init", "B"]}
+{"id": 339, "prediction": "\nD. linearBandwidthTest\n\nThe doc describes the linearB", "ground_truth": ["MiniEdit.newNode", "A"]}
+{"id": 340, "prediction": "\nD. ToolTip.showtip\n\nExplanation:\n", "ground_truth": ["RemoteLink.moveIntf", "C"]}
+{"id": 341, "prediction": " A. wait_for_handle\n\nExplanation:\nThe doc", "ground_truth": ["_TestRemoteManager.test_remote", "C"]}
+{"id": 342, "prediction": "\nA. NamespaceProxy.__getattr__\n\nExplanation:", "ground_truth": ["NamespaceProxy.__getattr__", "A"]}
+{"id": 343, "prediction": "\nA. _cleanup_tests\n\nThe doc string mentions in the", "ground_truth": ["_cleanup_tests", "A"]}
+{"id": 344, "prediction": "\nB. wait_for_handle\n\nExplanation:\nThe", "ground_truth": ["TestStartMethod.check_context", "D"]}
+{"id": 345, "prediction": "\nA. Pipe.\n\nThe doc mentions creating pipes using `", "ground_truth": ["_TestQueue.test_qsize", "C"]}
+{"id": 346, "prediction": "\nD. timezone\n\nExplanation:\nThe options provided are:", "ground_truth": ["on_conflict_clause", "C"]}
+{"id": 347, "prediction": "\nA. rtrim\n\nThe doc mentions that the options are:\n", "ground_truth": ["into_clause", "B"]}
+{"id": 348, "prediction": "\nB. access_priv\n\nThe doc mentions that access_priv is", "ground_truth": ["create_subscription_stmt", "A"]}
+{"id": 349, "prediction": "\n\nA. position\n\nExplanation:\n\nThe doc shows", "ground_truth": ["IntEnumPrinter.__call__", "D"]}
+{"id": 350, "prediction": " B\n\nBased on the provided options, the correct option is B.", "ground_truth": ["create_event_trig_stmt", "B"]}
+{"id": 351, "prediction": "\n\nA. load_order\n\nThe doc shows that the load_", "ground_truth": ["TeletexCodec.decode", "C"]}
+{"id": 352, "prediction": "\nA. CountryReverseError.__init__\n\nThe CountryReverse", "ground_truth": ["LanguageTypeConverter.convert", "D"]}
+{"id": 353, "prediction": "\nA. Script.__init__\n\nScript__init__ defines the initialization", "ground_truth": ["CaseInsensitiveDict.__eq__", "D"]}
+{"id": 354, "prediction": " D. Language.fromietf\n\nExplanation:\n\nD", "ground_truth": ["CaseInsensitiveDict.__repr__", "A"]}
+{"id": 355, "prediction": "\nB. Language.fromietf\n\nThe Language.fromietf", "ground_truth": ["Language.__bool__", "C"]}
+{"id": 356, "prediction": "\n\nA. AddrFilenamePairAction.__init__\n\nThe", "ground_truth": ["ESP32H2BETA1ROM.read_mac", "C"]}
+{"id": 357, "prediction": "\nA. ESPLoader.get_security_info\n\nThe doc string", "ground_truth": ["ESPLoader.get_security_info", "A"]}
+{"id": 358, "prediction": "\nA. BaseFirmwareImage.get_non_irom_", "ground_truth": ["BaseFirmwareImage.get_non_irom_segments", "A"]}
+{"id": 359, "prediction": " A. load_config_file", "ground_truth": ["_main", "B"]}
+{"id": 360, "prediction": "\nD. SpiConnectionAction.__call__\n\nExplanation:", "ground_truth": ["ESP32H2BETA1ROM.get_chip_description", "A"]}
+{"id": 361, "prediction": "\nA. _main\n\nThe _main() function in esptool", "ground_truth": ["BaseFirmwareImage.get_irom_segment", "C"]}
+{"id": 362, "prediction": "\nD. PeripheralDelegate.did_write_value_for", "ground_truth": ["PeripheralDelegate.did_write_value_for_characteristic", "D"]}
+{"id": 363, "prediction": "\nA. BlueZManager._check_adapter\n\nThe `BlueZ", "ground_truth": ["BleakGATTServiceCollection.add_service", "D"]}
+{"id": 364, "prediction": "\n\nC. Status.retweet\n\nThe return statement in the function", "ground_truth": ["Tweet.__repr__", "D"]}
+{"id": 365, "prediction": "\nA. Status.parse\n\nExplanation:\n\nA.", "ground_truth": ["List.members", "C"]}
+{"id": 366, "prediction": " A. A\n\nThe doc mentions that A.A. Scenario.__", "ground_truth": ["Scenario.__getattr__", "B"]}
+{"id": 367, "prediction": "\n\nA. Group.child\n\nExplanation:\n\nThe", "ground_truth": ["Group.child", "A"]}
+{"id": 368, "prediction": "\n\nB. Layers.get_parents_from_tree", "ground_truth": ["windows_ci_skip", "D"]}
+{"id": 369, "prediction": "\nA. LayerReporter.__init__\n\nExplanation:", "ground_truth": ["Config._cast", "C"]}
+{"id": 370, "prediction": " A. DiscoveryLoader.loadTestsFromNames\n\nExplanation:", "ground_truth": ["Scenario._checkForLayersPlugin", "C"]}
+{"id": 371, "prediction": "\nA. MethodTestCase.\n\nExplanation:\nThe doc", "ground_truth": ["upper_test_setup", "B"]}
+{"id": 372, "prediction": " B. add_symbol\n\nThe docstring says:\n\"Adds", "ground_truth": ["TestDiamond.test_per_diamond_1", "C"]}
+{"id": 373, "prediction": "\n\nA. _is_shutting_down", "ground_truth": ["NameScope.get_child", "C"]}
+{"id": 374, "prediction": "\nA. view_dot_graph\n\nExplanation:\nThe", "ground_truth": ["PhiInstr.add_incoming", "D"]}
+{"id": 375, "prediction": " B\n\nExplanation:\n\n* Address_of_symbol is", "ground_truth": ["ModuleRef.function", "B"]}
+{"id": 376, "prediction": "\nA. parse_bitcode\n\nExplanation:\nThe doc", "ground_truth": ["_ConstOpMixin.gep", "D"]}
+{"id": 377, "prediction": " C. test_maptiler", "ground_truth": ["test_maptiler", "C"]}
+{"id": 378, "prediction": " B. Bunch.__dir__\n\nThe doc tests the __dir__", "ground_truth": ["test_herev3", "C"]}
+{"id": 379, "prediction": "\n\nA. html_attr_provider\n\nThis option is important because", "ground_truth": ["test_stadia", "B"]}
+{"id": 380, "prediction": " A. _load_json\n\nThe code is loading the providers from", "ground_truth": ["test_stadia", "D"]}
+{"id": 381, "prediction": "\nA. TileProvider.build_url\n\nBuild URL is a", "ground_truth": ["test_requires_token", "D"]}
+{"id": 382, "prediction": " A. test_mapbox\n\nDescription:\n\nThis test file contains", "ground_truth": ["Bunch._repr_html_", "B"]}
+{"id": 383, "prediction": " D. merge_pieces\n\nThe doc mentions that merge_pieces", "ground_truth": ["Setup.setup_arguments", "B"]}
+{"id": 384, "prediction": " A. Hg.url_match\n\nBased on the doc,", "ground_truth": ["Hg.url_match", "A"]}
+{"id": 385, "prediction": "\nA. get_mu_dist\n\nThe doc shows that get_", "ground_truth": ["Setup.run_from_conf_args", "C"]}
+{"id": 386, "prediction": " C. get_mu_dist.\n\nThis is a script that par", "ground_truth": ["Environment._set_commit_hash", "D"]}
+{"id": 387, "prediction": " A. parse.\n\nExplanation:\nThe docstring contains a", "ground_truth": ["AbstractCallableVisitor._is_return_NotImplemented", "C"]}
+{"id": 388, "prediction": "\nD. top_parse\n\nExplanation:\nD. top", "ground_truth": ["DocstringStyle.from_string", "A"]}
+{"id": 389, "prediction": "\n\nA. lookup\n\nThe docstring is the description of a class", "ground_truth": ["Path.if_left", "D"]}
+{"id": 390, "prediction": " A. parse.\n\nThe docstring is a string describing a function or", "ground_truth": ["Continuation.extract", "B"]}
+{"id": 391, "prediction": "\nA. gga_x_pbe_sol_spin\n", "ground_truth": ["gga_x_pbe_spin", "D"]}
+{"id": 392, "prediction": " D. harmonic\n\nThis is a question about the options given in the", "ground_truth": ["Occupations._fractional_fillings", "B"]}
+{"id": 393, "prediction": " C. parse_xc_pyscf.", "ground_truth": ["lda_c_vwn", "A"]}

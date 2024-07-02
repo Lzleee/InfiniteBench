@@ -18,6 +18,9 @@ from eval_utils import (
 from yarn_mistral.modeling_mistral_yarn import MistralForCausalLM
 from args import parse_args
 
+# import os
+
+# os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 MAX_POSITION_ID = 128 * 1024  # Determined by the model
 TRUNCATE_LEN = 128 * 1024
@@ -170,7 +173,7 @@ def get_pred(
 
 
 def load_model(
-    model_name: str = "../../../yarn-mistral-7b-128k",
+    model_name: str = "/data/public/wangshuo/LongContext/model/NousResearch/Yarn-Mistral-7b-128k",
 ) -> Tuple[MistralForCausalLM, AutoTokenizer]:
     print("Loading tokenizer")
     tok = AutoTokenizer.from_pretrained(model_name)
@@ -180,6 +183,8 @@ def load_model(
     model = MistralForCausalLM.from_pretrained(
         model_name, device_map="auto", torch_dtype=torch.bfloat16
     )
+    
+    # model = model.to("cuda")
     print("Time taken:", round(time.time() - start_time))
     return model, tok  # type: ignore
 

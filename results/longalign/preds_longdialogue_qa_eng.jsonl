@@ -1,0 +1,200 @@
+{"id": 0, "prediction": " $2MASK$.", "ground_truth": ["ACE", "ACE ROTHSTEIN"]}
+{"id": 1, "prediction": " the actual name of the person that is being referred to in the document, but", "ground_truth": ["GAGGI", "Remo", "remo Gaggi"]}
+{"id": 2, "prediction": " a placeholder for a specific video game or franchise that is not currently known.", "ground_truth": ["JIM", "JIM GARRISON", "GARRISON"]}
+{"id": 3, "prediction": " a placeholder name used during development or production. The name is not listed in the", "ground_truth": ["BILL", "BILL BROUSSARD", "BROUSSARD"]}
+{"id": 4, "prediction": " intended to be \"Mahatma Gandhi.\"", "ground_truth": ["FARROUHK"]}
+{"id": 5, "prediction": " intended to be \"Papa\".", "ground_truth": ["EDWARD"]}
+{"id": 6, "prediction": " \"Benjamin Button\" as this is the name of the character in the story", "ground_truth": ["HAMMOND"]}
+{"id": 7, "prediction": " \"The Necronomicon\".", "ground_truth": ["DAVID", "DAVID WILLS"]}
+{"id": 8, "prediction": " a placeholder for a name that was originally used but later deleted from the script.", "ground_truth": ["MICKEY", "Mickey Sachs"]}
+{"id": 9, "prediction": " a placeholder for the actual name of the character or organization being referred to.", "ground_truth": ["OIL MAN"]}
+{"id": 10, "prediction": " \"Camp Crystal Lake.\"", "ground_truth": ["TONY", "TONY MONTANA"]}
+{"id": 11, "prediction": " referring to a character or figure in the film that the director has decided to with", "ground_truth": ["CLAUDIA"]}
+{"id": 12, "prediction": " a placeholder name used for the purpose of this script.", "ground_truth": ["BETSY"]}
+{"id": 13, "prediction": " $JANINE$.", "ground_truth": ["HECTOR"]}
+{"id": 14, "prediction": " a reference to the film \"The Godfather\", and the character of Michael Cor", "ground_truth": ["CLEMENZA", "Peter Clemenza"]}
+{"id": 15, "prediction": " to be revealed to be \"Plague\".", "ground_truth": ["PLAGUE"]}
+{"id": 16, "prediction": " a placeholder for a name that was removed from the script. The phrase \"It", "ground_truth": ["THE BRIDE"]}
+{"id": 17, "prediction": " to be \"Sister Sadie\" or \"Sadie Krenw", "ground_truth": ["RAMON"]}
+{"id": 18, "prediction": " $ALLISON DEFEO$. The text is also missing some words at", "ground_truth": ["LISA", "LISA COHEN"]}
+{"id": 19, "prediction": " - but not definitively - HUGO WENNERSTROM. The", "ground_truth": ["KATIE"]}
+{"id": 20, "prediction": " \"Major Tom (Tommy)\"", "ground_truth": ["BLOMKVIST", "Mikael Blomkvist"]}
+{"id": 21, "prediction": " intended to be \"Sam\".", "ground_truth": ["DOUG", "DOUG BUKOWSKI"]}
+{"id": 22, "prediction": " a placeholder for a character's name that has not yet been revealed. The", "ground_truth": ["SALIERI"]}
+{"id": 23, "prediction": " a placeholder, as there is no context provided for it. It could potentially be", "ground_truth": ["JONAH KING"]}
+{"id": 24, "prediction": " to be used for the elf.  \n\n\nAs Willie wal", "ground_truth": ["BRUCE", "Bruce Baldwin"]}
+{"id": 25, "prediction": " meant to be Hildegarde Johnson, the main character in the story.", "ground_truth": ["ENDICOTT"]}
+{"id": 26, "prediction": " \"Luke.\"", "ground_truth": ["HILDY", "Hildy Johnson"]}
+{"id": 27, "prediction": " intended to be \"Walter Burns\". The scene appears to be depict", "ground_truth": ["BURNS", "Walter", "Walter BURNS"]}
+{"id": 28, "prediction": " meant to be \"Liz Short\" or \"Betty Short,\" referring", "ground_truth": ["MARTHA"]}
+{"id": 29, "prediction": " \"Ray Ferrier\" in the original screenplay.", "ground_truth": ["MASON"]}
+{"id": 30, "prediction": " intended to be \"Harvey Shine.\"", "ground_truth": ["DAD"]}
+{"id": 31, "prediction": " to be replaced with a name like \"NARROW\" when the movie is", "ground_truth": ["DR. SANGER", "HENRY SANGER", "DR. HENRY SANGER"]}
+{"id": 32, "prediction": " referring to John Wick's desire to remain anonymous and untraceable after", "ground_truth": ["HUNSECKER"]}
+{"id": 33, "prediction": " J.J. Hunsecker.", "ground_truth": ["PRIMATE PETE", "PETE"]}
+{"id": 34, "prediction": " \"John Madden.\" However, it is not clear from the context whether this", "ground_truth": ["KELLY"]}
+{"id": 35, "prediction": " a name that the character Steven Schwimmer uses as an alias or pseudonym.", "ground_truth": ["NICKY"]}
+{"id": 36, "prediction": " \"Radio Raheem.\" The name that has been replaced with $$MASK", "ground_truth": ["DA MAYOR"]}
+{"id": 37, "prediction": " intended to be \"RICK\". However, this line is not in the", "ground_truth": ["DARRYL"]}
+{"id": 38, "prediction": " \"Cindy.\" In the scene where Rick meets Melanie again at the", "ground_truth": ["ESTRELLA"]}
+{"id": 39, "prediction": " a placeholder name for the character. It is not specified in the script.", "ground_truth": ["ANNIE", "ANNIE MACLEAN"]}
+{"id": 40, "prediction": " to be one that the viewer will recognize as a famous or iconic figure", "ground_truth": ["INEZ"]}
+{"id": 41, "prediction": " meant to be $MASK.", "ground_truth": ["PHIL"]}
+{"id": 42, "prediction": " \"Ben Du Toit\".   The card is now in the hands of Colonel", "ground_truth": ["BRUWER", "MELANIE BRUWER"]}
+{"id": 43, "prediction": " due to legal reasons.", "ground_truth": ["CLOETE"]}
+{"id": 44, "prediction": " Rebecca Ahn, as she is currently serving time in prison. The", "ground_truth": ["PRIEST"]}
+{"id": 45, "prediction": " meant to be \"Princess Aura,\" as the passage mentions Aura", "ground_truth": ["HEDONIA"]}
+{"id": 46, "prediction": " a placeholder name for the character.", "ground_truth": ["GWEN"]}
+{"id": 47, "prediction": " \"Charlotte\" (as the text mentions that the character Charlotte is in", "ground_truth": ["SAMANTHA"]}
+{"id": 48, "prediction": " intended to be \"Maltese Falcon,\" which is a famous detective", "ground_truth": ["WARDEN", "MILTON WARDEN"]}
+{"id": 49, "prediction": " Tommy Chong.\n\n\nJORDAN      : (O.S", "ground_truth": ["PINHEAD"]}
+{"id": 50, "prediction": " a placeholder for a title that has not yet been decided upon. The text appears", "ground_truth": ["NICOLET", "RAY NICOLET"]}
+{"id": 51, "prediction": " a placeholder for a real name. In the final draft, this text is replaced", "ground_truth": ["JACKIE", "JACKIE BROWN"]}
+{"id": 52, "prediction": " \"Livingston\".", "ground_truth": ["RUSTY"]}
+{"id": 53, "prediction": " to be changed to \"Terry Benedict\".", "ground_truth": ["TESS"]}
+{"id": 54, "prediction": " the killer. The killer is the one who has been leaving notes and", "ground_truth": ["ROY"]}
+{"id": 55, "prediction": " Alexander Pearce, the main character.", "ground_truth": ["QUINCE"]}
+{"id": 56, "prediction": " \"Joe\".", "ground_truth": ["JOE", "JOE Black"]}
+{"id": 57, "prediction": " \"Quince.\"", "ground_truth": ["ALLISON"]}
+{"id": 58, "prediction": " \"Ishmael\". The name that has been replaced with $$MASK", "ground_truth": ["HELEN", "HELEN CHAMBERS"]}
+{"id": 59, "prediction": " an effort to obscure the identity of the person involved in the exchange.", "ground_truth": ["MILLS", "David Mills"]}
+{"id": 60, "prediction": " intended to be \"$MASK\". The character \"$MASK\" is present in", "ground_truth": ["TYRIAN"]}
+{"id": 61, "prediction": " an alias.", "ground_truth": ["STEPHEN", "Stephen Meyers"]}
+{"id": 62, "prediction": " Allen Ginsberg's name.", "ground_truth": ["BOND", "JAMES BOND"]}
+{"id": 63, "prediction": " the original name that was on the manuscript.", "ground_truth": ["HARMSWAY", "ELLIOT HARMSWAY"]}
+{"id": 64, "prediction": " intended to be \"Freddy Newendyke\" or \"Fred", "ground_truth": ["MR. PINK"]}
+{"id": 65, "prediction": " \"Casper the Friendly Ghost\" as per the opening lines of the", "ground_truth": ["NICOLE"]}
+{"id": 66, "prediction": " intended to be \"Money\".", "ground_truth": ["ALISON", "Ally Jones", "Ally"]}
+{"id": 67, "prediction": " \"Carol\".", "ground_truth": ["CAROL"]}
+{"id": 68, "prediction": " a placeholder text used by the filmmakers during the production. The name \"", "ground_truth": ["ANN", "ANN BISHOP MILLANEY"]}
+{"id": 69, "prediction": " due to the fact that the mask is often used to conceal the identity of", "ground_truth": ["LELAND"]}
+{"id": 70, "prediction": " a reference to the character's face being obscured by a mask in the", "ground_truth": ["HARVEY", "HARVEY PEKAR"]}
+{"id": 71, "prediction": " a placeholder name used during production. It is also possible that the name was removed", "ground_truth": ["BILLY"]}
+{"id": 72, "prediction": " $BEANIE BAILIES.", "ground_truth": ["CLAUDIA", "CLAUDIA JENSSEN,"]}
+{"id": 73, "prediction": " a placeholder for the name of a fictional company or organization that would be used", "ground_truth": ["KAY"]}
+{"id": 74, "prediction": " a reference to the mask worn by Michael Myers in the Halloween film", "ground_truth": ["DAVE"]}
+{"id": 75, "prediction": " intended to hide the name of the murder victim, Judith Myers, from", "ground_truth": ["LISA"]}
+{"id": 76, "prediction": " intended to be a reference to a dollar sign ($), but it is unclear", "ground_truth": ["QUAIL", "Douglas Quail"]}
+{"id": 77, "prediction": " a placeholder for a character name that is not finalized or has not been revealed", "ground_truth": ["SAM", "SAM PICKLES"]}
+{"id": 78, "prediction": " \"John Lee Hooker\" (also known as \"John Lee Hooker and", "ground_truth": ["JOHNNY", "JOHNNY FOOTE"]}
+{"id": 79, "prediction": " intentional, as the use of a mask in this context suggests that the true", "ground_truth": ["CHARLOTTE", "CHARLOTTE BOUDREAU CANTELLE PHELAN"]}
+{"id": 80, "prediction": " the name of a character in the story.", "ground_truth": ["ELIZABETH", "ELIZABETH LEEFOLT"]}
+{"id": 81, "prediction": " Eduardo Saverin's name.", "ground_truth": ["BUDDY"]}
+{"id": 82, "prediction": " Ashleigh, the young woman that Mark has been talking to earlier. The", "ground_truth": ["AUSTIN", "AUSTIN POWERS"]}
+{"id": 83, "prediction": " to be:\n\n\nCAMERON WINKLEVOSS", "ground_truth": ["EDUARDO", "EDUARDO SAVERIN"]}
+{"id": 84, "prediction": " John Miller.", "ground_truth": ["JENNIFER", "JENNIFER HILLS"]}
+{"id": 85, "prediction": " meant to be \"Batman\" (referring to the character played by", "ground_truth": ["JOHNNY"]}
+{"id": 86, "prediction": " meant to be the name of the character played by Luke Skywalker. However", "ground_truth": ["SAMUEL"]}
+{"id": 87, "prediction": " a placeholder for a scene or character that was cut from the script. The text", "ground_truth": ["MOTTI", "Admiral Motti"]}
+{"id": 88, "prediction": " meant to be a reference to the film \"The Mask.\" The name \"", "ground_truth": ["STU", "STUART SHEPARD"]}
+{"id": 89, "prediction": " the name of a company that has been defrauded by a fake CE", "ground_truth": ["MAURICE"]}
+{"id": 90, "prediction": " for contractual reasons, as the name \"Kevin\" was previously referred to", "ground_truth": ["BESTLER", "HEINRICH BESTLER"]}
+{"id": 91, "prediction": " intended to be $MOON$, as the dialogue refers to \"Moon", "ground_truth": ["HELMUT", "HELMUT DORQUE"]}
+{"id": 92, "prediction": " intended to be Ling, given the context of the conversation.", "ground_truth": ["FAIT", "TONY FAIT"]}
+{"id": 93, "prediction": " an error, or a placeholder. Could you please provide more context or information about", "ground_truth": ["ECKER", "COMMANDER BILL ECKER"]}
+{"id": 94, "prediction": " \"Sal Boca\" since \"Sal\" is mentioned in the previous sentence,", "ground_truth": ["DAVY JONES"]}
+{"id": 95, "prediction": " due to a copyright issue. The original name is not provided.", "ground_truth": ["BOBBY", "Bobby Kennedy"]}
+{"id": 96, "prediction": " the name of a town or village in West Virginia. The lyrics could potentially", "ground_truth": ["PAUL", "PAUL D. GARNER", "Paul D."]}
+{"id": 97, "prediction": " an intentional omission by the author. In the text, it appears that", "ground_truth": ["STAMP PAID"]}
+{"id": 98, "prediction": " a placeholder used during the development of the script. It is not a character in", "ground_truth": ["BABY SUGGS"]}
+{"id": 99, "prediction": " a reference to how the music in the background is being used to drown out", "ground_truth": ["DENVER"]}
+{"id": 100, "prediction": " \"Glenn Michaels\"", "ground_truth": ["ZED"]}
+{"id": 101, "prediction": " meant to be Moriarty.", "ground_truth": ["ISABELLA", "ISABELLA MOLINA"]}
+{"id": 102, "prediction": " meant to be \"Jerry Lundegaard.\" The document appears to be", "ground_truth": ["CARTER"]}
+{"id": 103, "prediction": " intended to be a reference to the character of the same name from the film \"", "ground_truth": ["PETE MUSANE"]}
+{"id": 104, "prediction": " a placeholder for an intended name, and should be replaced with the intended name of", "ground_truth": ["DAVE"]}
+{"id": 105, "prediction": " the name of a bank.\n\n\nIRVING ROSENF", "ground_truth": ["JOEL", "JOEL REYNOLDS"]}
+{"id": 106, "prediction": " $PETER FALLOW$ because it refers to Peter Fallow,", "ground_truth": ["WEISS"]}
+{"id": 107, "prediction": " a placeholder for a character name that has not been decided upon yet.", "ground_truth": ["SHERMAN", "Sherman McCoy"]}
+{"id": 108, "prediction": " the name of the paper that the main character is working for, the City Light", "ground_truth": ["LUIS"]}
+{"id": 109, "prediction": " intended to be the word \"MERCHANT.\"", "ground_truth": ["PETER", "Peter Fallow"]}
+{"id": 110, "prediction": " intended to be \"HARLAN'S TRAILER\".", "ground_truth": ["MISSION CONTROL"]}
+{"id": 111, "prediction": " an anagram of \"Leonard Lowe.\" The money he has is", "ground_truth": ["OLIVER", "OLIVER FIELDS"]}
+{"id": 112, "prediction": " an alias used by a character in the story. It is not the name of", "ground_truth": ["COACH"]}
+{"id": 113, "prediction": " to be replaced with a new name that is yet to be determined.\n\n", "ground_truth": ["SAM", "SAM LOWRY"]}
+{"id": 114, "prediction": " a typo. It should be $$MASK$$ or $$DISPLAY$$", "ground_truth": ["LOU"]}
+{"id": 115, "prediction": " the name of a person or entity that is not publicly known or recognized.", "ground_truth": ["STEVE CARELL"]}
+{"id": 116, "prediction": " to be the name of the first person we see in the film. The name", "ground_truth": ["KAREN", "KAREN RICHARDS"]}
+{"id": 117, "prediction": " a placeholder for a film studio, production company, or other entity involved in the", "ground_truth": ["CINDY", "CINDY PERIERA"]}
+{"id": 118, "prediction": " an alias for Betty Sizemore, the main character in the film.", "ground_truth": ["GLADYS", "GLADYS LEEMAN"]}
+{"id": 119, "prediction": " \"WALTER\".\n\n\nThe name that has been replaced with $$", "ground_truth": ["MR. JOHNSON"]}
+{"id": 120, "prediction": " the name of a movie studio or production company. The production company may have originally", "ground_truth": ["LINNEA"]}
+{"id": 121, "prediction": " \"A Big Pink\" as the passage mentions a blonde who Jean meets", "ground_truth": ["BASQUIAT", "JEAN MICHEL BASQUIAT"]}
+{"id": 122, "prediction": " the name of the person who wrote the script, as the original name has been", "ground_truth": ["SECURITY CHIEF"]}
+{"id": 123, "prediction": " a reference to the idea that Basquiat's death was caused by his", "ground_truth": ["CHRISTY"]}
+{"id": 124, "prediction": " intended to be a placeholder for the name of a film, book, or other", "ground_truth": ["WALTER", "WALTER VALE"]}
+{"id": 125, "prediction": " \"Alex\" or \"Alexander\".", "ground_truth": ["REGGIE"]}
+{"id": 126, "prediction": " a reference to the character Ray Mask from the film \"The Killing Kind", "ground_truth": ["LEONARD", "LEONARD FISHER"]}
+{"id": 127, "prediction": " a reference to the movie \"The Mask,\" where the main character, Camer", "ground_truth": ["TYLER", "Tyler Durden"]}
+{"id": 128, "prediction": " to be a surprise to the guests, if they haven't already guessed", "ground_truth": ["BIALYSTOCK"]}
+{"id": 129, "prediction": " a reference to the fact that the character is wearing a mask.", "ground_truth": ["BLOOM", "LEO BLOOM"]}
+{"id": 130, "prediction": " a reference to Rachel's marriage to Ben. Jackie's use", "ground_truth": ["RACHEL", "RACHEL KELLY"]}
+{"id": 131, "prediction": " just a placeholder for the name of the character. It seems like the script is", "ground_truth": ["JUNO"]}
+{"id": 132, "prediction": " to be an AI or another character that is not the protagonist or a", "ground_truth": ["D'ARTAGNAN"]}
+{"id": 133, "prediction": " intended to be \"Richelieu\" (Cardinal Richelieu).", "ground_truth": ["LOUIS", "King Louis XIII", "Louis XIII"]}
+{"id": 134, "prediction": ":\n\n* D'Artagnan (based on the earlier mention of", "ground_truth": ["FRY", "CAROLYN FRY"]}
+{"id": 135, "prediction": " a reference to the character of \"Cardinal Richelieu\" in the story", "ground_truth": ["FIRST CAVALIER"]}
+{"id": 136, "prediction": " intended to be \"Mark\", as this text is about a woman reading a poem", "ground_truth": ["TITO"]}
+{"id": 137, "prediction": " \"Mark\". The rest of the poem is not included in the script excer", "ground_truth": ["NICK"]}
+{"id": 138, "prediction": " intended to be \"Cartwright\" or \"Wainwright\", as", "ground_truth": ["WILLIAM"]}
+{"id": 139, "prediction": " \"Chaz\", as the scene describes Chaz clowning around and pret", "ground_truth": ["KIT"]}
+{"id": 140, "prediction": " a reference to the classic film noir \"The Mask of Dimitrios", "ground_truth": ["BETTY"]}
+{"id": 141, "prediction": " \"Mask\".", "ground_truth": ["ADRIAN"]}
+{"id": 142, "prediction": " a reference to the television show \"The Mask\" which was popular during the", "ground_truth": ["ANGEL"]}
+{"id": 143, "prediction": " a placeholder for the final product.", "ground_truth": ["DAN RATHER"]}
+{"id": 144, "prediction": " a placeholder name for the female protagonist in the musical \"Once Upon A December", "ground_truth": ["QUOYLE"]}
+{"id": 145, "prediction": " $HABIB$.", "ground_truth": ["DMITRI"]}
+{"id": 146, "prediction": " \"The name that has been replaced with XXXX\".", "ground_truth": ["STARLING", "CLARICE STARLING"]}
+{"id": 147, "prediction": " a reference to the group's decision not to reveal their true identities", "ground_truth": ["BARNEY"]}
+{"id": 148, "prediction": " \"MASK\"", "ground_truth": ["EVERETT"]}
+{"id": 149, "prediction": " the name of the murder victim in the Jennifer Eight case.", "ground_truth": ["BERLIN", "JOHN BERLIN", "JOHN"]}
+{"id": 150, "prediction": " Summer.", "ground_truth": ["SUMMER"]}
+{"id": 151, "prediction": " \"Honey Whitlock.\" The text indicates that Honey Whitlock is in", "ground_truth": ["MAYA"]}
+{"id": 152, "prediction": " \"Faith\" based on context clues in the document. The passage describes", "ground_truth": ["PANES", "LEVI PANES"]}
+{"id": 153, "prediction": " to be the most important name in the entire table, representing the drug money that", "ground_truth": ["RIEDENSCHNEIDER", "Freddy Riedenschneider"]}
+{"id": 154, "prediction": " to be \"Charlie Williams\"", "ground_truth": ["FRANK"]}
+{"id": 155, "prediction": " \"Marylin\".", "ground_truth": ["ALI", "Ali Van Versh"]}
+{"id": 156, "prediction": " the name of the hotel where the events took place.", "ground_truth": ["SUGE", "SUGE KNIGHT"]}
+{"id": 157, "prediction": " \"Burnham\" or \"Burnham\"\n\nBurnham", "ground_truth": ["RAOUL"]}
+{"id": 158, "prediction": " referring to the villain Jerry Dandridge from the movie Hellboy.", "ground_truth": ["PETER", "Peter Vincent"]}
+{"id": 159, "prediction": " intended to be a placeholder or temporary placeholder for a real name in the script.", "ground_truth": ["JEAN"]}
+{"id": 160, "prediction": " \"John du Pont\". In the second act, \"The John du Pont Story", "ground_truth": ["WYATT", "Wyatt Earp"]}
+{"id": 161, "prediction": " \"Wyatt Earp\" as the passage mentions Wyatt Earp and", "ground_truth": ["MATTIE"]}
+{"id": 162, "prediction": " a placeholder. The real name has been redacted.", "ground_truth": ["AUFIDIUS", "TULLUS AUFIDIUS"]}
+{"id": 163, "prediction": " an anagram or substitute for another name. It is not clear what the original", "ground_truth": ["JO"]}
+{"id": 164, "prediction": " \"Jeffrey Mason.\"", "ground_truth": ["KAFKA"]}
+{"id": 165, "prediction": " meant to be \"Boris.\" The passage mentions \"Boris and Doris", "ground_truth": ["HARRY", "HARRY TASKER"]}
+{"id": 166, "prediction": " a placeholder name used during the filming process. It is not a character in", "ground_truth": ["SONNY", "SONNY CORLEONE"]}
+{"id": 167, "prediction": " \"Ted Striker\".", "ground_truth": ["DON CORLEONE"]}
+{"id": 168, "prediction": " Whip. The doc seems to be about his recovery from addiction, including", "ground_truth": ["ABBY"]}
+{"id": 169, "prediction": " \"The Joker\" or some variation of that name, as \"The J", "ground_truth": ["FLEURY"]}
+{"id": 170, "prediction": " a reference to the \"Mask\" that was worn by the murdered actress in", "ground_truth": ["TEN BEARS"]}
+{"id": 171, "prediction": " an abbreviation or acronym.", "ground_truth": ["KATE"]}
+{"id": 172, "prediction": " a reference to Ben Willis, who was revealed to be the killer in", "ground_truth": ["TYRELL", "TYRELL MARTIN"]}
+{"id": 173, "prediction": " meant to be \"Bobby Green,\" Bobby's nickname.", "ground_truth": ["BOBBY GREEN"]}
+{"id": 174, "prediction": " meant to be \"New York\" instead.", "ground_truth": ["ROSARIO DIAZ"]}
+{"id": 175, "prediction": " \"Mask\" because there are still multiple clips from Austin Powers 2", "ground_truth": ["LEON", "Count Leon d'Algout"]}
+{"id": 176, "prediction": " a reference to the character \"The Mask\" from the comic book series", "ground_truth": ["ED"]}
+{"id": 177, "prediction": " intended to be \"$MASK\" but the characters do not match the intended mask", "ground_truth": ["GARRETT"]}
+{"id": 178, "prediction": " \"Fred.\"", "ground_truth": ["CHARLIE", "CHARLIE MacCORRY"]}
+{"id": 179, "prediction": " the name of the Jigsaw Killer.", "ground_truth": ["DYSON", "MILES DYSON"]}
+{"id": 180, "prediction": " to be $$USDOJ$$ or $$FBI$$.", "ground_truth": ["VOSEN", "NOAH VOSEN"]}
+{"id": 181, "prediction": ":\n\nJason Bourne (David Webb)\n\nDavid Web", "ground_truth": ["MILLER"]}
+{"id": 182, "prediction": " intended to be $MASK$, as $MASK$ is the name of", "ground_truth": ["ETHAN", "ETHAN HUNT"]}
+{"id": 183, "prediction": " intended to be a reference to the character \"The Mask\", from the movie", "ground_truth": ["SERENDIPITY"]}
+{"id": 184, "prediction": " the driver's name.", "ground_truth": ["ELAINE"]}
+{"id": 185, "prediction": " \"Michael Myers\".", "ground_truth": ["LOOMIS", "SAMUEL J. LOOMIS"]}
+{"id": 186, "prediction": " a reference to the fact that the author does not want to use the name of", "ground_truth": ["OLIVE"]}
+{"id": 187, "prediction": " intended to be \"Beth\".", "ground_truth": ["FRANK", "Frank Baker"]}
+{"id": 188, "prediction": " a reference to the fact that the character is wearing a gas mask. The", "ground_truth": ["TAUPIN", "RICHARD TAUPIN"]}
+{"id": 189, "prediction": " meant to be a placeholder for the name of the claymore (a type", "ground_truth": ["GENERAL HAIG"]}
+{"id": 190, "prediction": " a placeholder for a future reference. It is not specified what the name of the", "ground_truth": ["MILTON", "JOHN MILTON"]}
+{"id": 191, "prediction": " \"bitchful\", but the original word is unclear.", "ground_truth": ["LEONOR"]}
+{"id": 192, "prediction": " meant to be $$MASKED NAME$$", "ground_truth": ["NEFF"]}
+{"id": 193, "prediction": " a reference to the movie \"Mask\" which was released in 198", "ground_truth": ["BECK"]}
+{"id": 194, "prediction": " a placeholder for a character name that was cut from the script.", "ground_truth": ["CATHERINE", "Catherine Tramell"]}
+{"id": 195, "prediction": " meant to be \"MASK.\"", "ground_truth": ["JOAN"]}
+{"id": 196, "prediction": " the criminal who committed the crimes in the story. $MASK$$ was", "ground_truth": ["HANNA"]}
+{"id": 197, "prediction": " a placeholder for a future character name in the story. It could be a character", "ground_truth": ["NEIL"]}
+{"id": 198, "prediction": " Michael Cerrito, a high-line criminal who is described as a \"cow", "ground_truth": ["BREEDAN"]}
+{"id": 199, "prediction": " \"President Andrew Shepherd\" or \"Andrew Shepherd\"", "ground_truth": ["THE GANG"]}
